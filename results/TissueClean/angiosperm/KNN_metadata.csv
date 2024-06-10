@@ -1,0 +1,2672 @@
+SampleID,family,TissueClean,stress,AboveBelow,VegetativeRepro,true_labels,predictions
+SRR1598911,Amaranthacea,Flower,healthy,Above,Reproductive,3,15
+SRR1598912,Amaranthacea,Leaf,healthy,Above,Vegetative,7,16
+SRR1598913,Amaranthacea,Root,healthy,Below,Vegetative,13,13
+SRR1598910,Amaranthacea,Shoot,healthy,Above,Vegetative,18,13
+SRR1598914,Amaranthacea,Other,drought,Other,Other,8,16
+SRR1598909,Amaranthacea,Seed,healthy,WholePlant,Reproductive,15,15
+SRR1598916,Amaranthacea,Seed,healthy,WholePlant,Reproductive,15,15
+SRR1598915,Amaranthacea,Seedling,healthy,WholePlant,WholePlant,16,15
+SRR9844294,Brassicaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR9844295,Brassicaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR9844296,Brassicaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR9844300,Brassicaceae,Leaf,drought,Above,Vegetative,7,7
+SRR9844301,Brassicaceae,Leaf,drought,Above,Vegetative,7,7
+SRR9844302,Brassicaceae,Leaf,drought,Above,Vegetative,7,7
+SRR11458863,Brassicaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR11458867,Brassicaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR11458871,Brassicaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR11458875,Brassicaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR11458864,Brassicaceae,Leaf,salt,Above,Vegetative,7,7
+SRR11458868,Brassicaceae,Leaf,salt,Above,Vegetative,7,7
+SRR11458872,Brassicaceae,Leaf,salt,Above,Vegetative,7,7
+SRR11458876,Brassicaceae,Leaf,salt,Above,Vegetative,7,7
+SRR3724649,Brassicaceae,Leaf,cold,Above,Vegetative,7,7
+SRR3724650,Brassicaceae,Leaf,cold,Above,Vegetative,7,7
+SRR3724651,Brassicaceae,Leaf,cold,Above,Vegetative,7,7
+SRR3724652,Brassicaceae,Leaf,cold,Above,Vegetative,7,7
+SRR3724663,Brassicaceae,Leaf,cold,Above,Vegetative,7,7
+SRR3724668,Brassicaceae,Leaf,cold,Above,Vegetative,7,7
+SRR3724737,Brassicaceae,Leaf,cold,Above,Vegetative,7,7
+SRR3724738,Brassicaceae,Leaf,cold,Above,Vegetative,7,7
+SRR3724739,Brassicaceae,Leaf,cold,Above,Vegetative,7,7
+SRR3724741,Brassicaceae,Leaf,cold,Above,Vegetative,7,16
+SRR3724768,Brassicaceae,Leaf,heat,Above,Vegetative,7,7
+SRR3724774,Brassicaceae,Leaf,heat,Above,Vegetative,7,7
+SRR3724778,Brassicaceae,Leaf,heat,Above,Vegetative,7,7
+SRR3724782,Brassicaceae,Leaf,heat,Above,Vegetative,7,7
+SRR3724785,Brassicaceae,Leaf,heat,Above,Vegetative,7,7
+SRR3724786,Brassicaceae,Leaf,heat,Above,Vegetative,7,7
+SRR3724787,Brassicaceae,Leaf,heat,Above,Vegetative,7,7
+SRR3724798,Brassicaceae,Leaf,heat,Above,Vegetative,7,7
+SRR3724806,Brassicaceae,Leaf,heat,Above,Vegetative,7,7
+SRR3724814,Brassicaceae,Leaf,heat,Above,Vegetative,7,7
+SRR3581347,Brassicaceae,Root,healthy,Below,Vegetative,13,13
+SRR3581356,Brassicaceae,Root,healthy,Below,Vegetative,13,13
+SRR3581346,Brassicaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR3581681,Brassicaceae,Shoot,healthy,Above,Vegetative,18,7
+SRR3581706,Brassicaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR3581709,Brassicaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR3581712,Brassicaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR3581693,Brassicaceae,Flower,healthy,Above,Reproductive,3,5
+SRR3581694,Brassicaceae,Flower,healthy,Above,Reproductive,3,5
+SRR3581695,Brassicaceae,Flower,healthy,Above,Reproductive,3,5
+SRR3581696,Brassicaceae,Flower,healthy,Above,Reproductive,3,3
+SRR3581697,Brassicaceae,Flower,healthy,Above,Reproductive,3,3
+SRR3581698,Brassicaceae,Flower,healthy,Above,Reproductive,3,3
+SRR3581699,Brassicaceae,Flower,healthy,Above,Reproductive,3,16
+SRR3581700,Brassicaceae,Flower,healthy,Above,Reproductive,3,3
+SRR3581701,Brassicaceae,Flower,healthy,Above,Reproductive,3,3
+SRR3581707,Brassicaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR3581710,Brassicaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR3581713,Brassicaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR5293260,Amborellaceae,Root,healthy,Below,Vegetative,13,13
+SRR5293261,Amborellaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5293262,Amborellaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR5293263,Amborellaceae,Flower,healthy,Above,Reproductive,3,15
+SRR5293265,Amborellaceae,Shoot,healthy,Above,Vegetative,18,18
+SRR5293264,Amborellaceae,Shoot,healthy,Above,Vegetative,18,8
+SRR5293266,Amborellaceae,Flower,healthy,Above,Reproductive,3,19
+SRR5293267,Amborellaceae,Flower,healthy,Above,Reproductive,3,15
+SRR5293268,Amborellaceae,Seedling,healthy,WholePlant,WholePlant,16,18
+SRR5293269,Amborellaceae,Flower,healthy,Above,Reproductive,3,19
+SRR5293270,Amborellaceae,Flower,healthy,Above,Reproductive,3,15
+SRR5293271,Amborellaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR5293272,Amborellaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR5293273,Amborellaceae,Flower,healthy,Above,Reproductive,3,15
+SRR5293274,Amborellaceae,Flower,healthy,Above,Reproductive,3,15
+SRR5293275,Amborellaceae,Seedling,healthy,WholePlant,WholePlant,16,18
+SRR5293276,Amborellaceae,Flower,healthy,Above,Reproductive,3,15
+SRR5293277,Amborellaceae,Flower,healthy,Above,Reproductive,3,15
+SRR5293278,Amborellaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR522511,Poaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR522512,Poaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR522513,Poaceae,Leaf,drought,Above,Vegetative,7,16
+SRR522514,Poaceae,Leaf,drought,Above,Vegetative,7,16
+SRR522515,Poaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR522516,Poaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR522517,Poaceae,Leaf,drought,Above,Vegetative,7,18
+SRR522518,Poaceae,Leaf,drought,Above,Vegetative,7,16
+SRR5012158,Poaceae,Flower,heat,Above,Reproductive,3,7
+SRR5012165,Poaceae,Flower,heat,Above,Reproductive,3,16
+SRR5012159,Poaceae,Leaf,heat,Above,Vegetative,7,7
+SRR5012161,Poaceae,Leaf,heat,Above,Vegetative,7,7
+SRR5012160,Poaceae,Flower,healthy,Above,Reproductive,3,16
+SRR5012169,Poaceae,Flower,healthy,Above,Reproductive,3,7
+SRR5012162,Poaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR5012164,Poaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR5012163,Poaceae,Leaf,heat,Above,Vegetative,7,16
+SRR5012166,Poaceae,Leaf,heat,Above,Vegetative,7,7
+SRR5012167,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5012168,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR349785,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR352143,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR349786,Poaceae,Flower,healthy,Above,Reproductive,3,18
+SRR349787,Poaceae,Flower,healthy,Above,Reproductive,3,16
+SRR352137,Poaceae,Flower,healthy,Above,Reproductive,3,15
+SRR352138,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR352144,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR352139,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR352140,Poaceae,Flower,healthy,Above,Reproductive,3,0
+SRR352141,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR352142,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR10238151,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,18
+SRR10238165,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,18
+SRR10238166,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,18
+SRR10238152,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR10238153,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR10238154,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR10238155,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,22
+SRR10238156,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,22
+SRR10238157,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,22
+SRR10238158,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,18
+SRR10238167,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,18
+SRR10238168,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,18
+SRR10238159,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR10238160,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR10238161,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR10238162,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR10238163,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR10238164,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR8758652,Cucurbitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR8758655,Cucurbitaceae,Leaf,drought,Above,Vegetative,7,18
+SRR8758659,Cucurbitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR8758653,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8758656,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8758658,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8758654,Cucurbitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR8758660,Cucurbitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR8758661,Cucurbitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR8758657,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8758662,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8758663,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8464307,Cucurbitaceae,Leaf,heat,Above,Vegetative,7,7
+SRR8464315,Cucurbitaceae,Leaf,heat,Above,Vegetative,7,7
+SRR8464316,Cucurbitaceae,Leaf,heat,Above,Vegetative,7,7
+SRR8464308,Cucurbitaceae,Leaf,heat,Above,Vegetative,7,7
+SRR8464323,Cucurbitaceae,Leaf,heat,Above,Vegetative,7,7
+SRR8464324,Cucurbitaceae,Leaf,heat,Above,Vegetative,7,7
+SRR8464309,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8464310,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8464311,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8464312,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8464313,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8464314,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8464317,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,18
+SRR8464318,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR8464328,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR8464319,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8464325,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8464326,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8464320,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8464321,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8464322,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8464327,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,18
+SRR8464329,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,18
+SRR2452449,Brassicaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR2452450,Brassicaceae,Reproductive- Other,cold,Above,Reproductive,12,7
+SRR2452451,Brassicaceae,Reproductive- Other,cold,Above,Reproductive,12,16
+SRR2452455,Brassicaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR2452456,Brassicaceae,Reproductive- Other,cold,Above,Reproductive,12,16
+SRR2452457,Brassicaceae,Reproductive- Other,cold,Above,Reproductive,12,16
+SRR2452458,Brassicaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR2452459,Brassicaceae,Reproductive- Other,cold,Above,Reproductive,12,16
+SRR2452460,Brassicaceae,Reproductive- Other,cold,Above,Reproductive,12,16
+SRR2452461,Brassicaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR2452462,Brassicaceae,Reproductive- Other,cold,Above,Reproductive,12,16
+SRR2452463,Brassicaceae,Reproductive- Other,cold,Above,Reproductive,12,16
+SRR1048145,Brassicaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR1048146,Brassicaceae,Seedling,heat,WholePlant,WholePlant,16,16
+SRR1048148,Brassicaceae,Seedling,drought,WholePlant,WholePlant,16,16
+SRR1544278,Brassicaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1549533,Brassicaceae,Leaf,drought,Above,Vegetative,7,16
+SRR1549534,Brassicaceae,Root,healthy,Below,Vegetative,13,13
+SRR1549535,Brassicaceae,Root,drought,Below,Vegetative,13,13
+SRR11412368,Brassicaceae,Leaf,drought,Above,Vegetative,7,7
+SRR11412441,Brassicaceae,Leaf,drought,Above,Vegetative,7,7
+SRR11412576,Brassicaceae,Leaf,drought,Above,Vegetative,7,7
+SRR11412369,Brassicaceae,Leaf,drought,Above,Vegetative,7,7
+SRR11412453,Brassicaceae,Leaf,drought,Above,Vegetative,7,7
+SRR11412577,Brassicaceae,Leaf,drought,Above,Vegetative,7,7
+SRR11412567,Brassicaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR11412587,Brassicaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR11412593,Brassicaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR11412568,Brassicaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR11412588,Brassicaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR11412595,Brassicaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR10065360,Brassicaceae,Leaf,salt,Above,Vegetative,7,7
+SRR10065361,Brassicaceae,Leaf,salt,Above,Vegetative,7,8
+SRR10065362,Brassicaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR10065363,Brassicaceae,Leaf,healthy,Above,Vegetative,7,8
+SRR8352634,Brassicaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR8352633,Brassicaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR8352635,Brassicaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR8352640,Brassicaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR8352639,Brassicaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR8352642,Brassicaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR8352626,Brassicaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR8352625,Brassicaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR8352632,Brassicaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR630923,Brassicaceae,Flower,healthy,Above,Reproductive,3,16
+SRR630924,Brassicaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR630925,Brassicaceae,Root,healthy,Below,Vegetative,13,13
+SRR630926,Brassicaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR630927,Brassicaceae,Shoot,healthy,Above,Vegetative,18,7
+SRR8692572,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR8692573,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR8692574,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR8692575,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR8692576,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR8692577,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR8692568,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR8692591,Solanaceae,Leaf,cold,Above,Vegetative,7,16
+SRR8692592,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR8692569,Solanaceae,Leaf,cold,Above,Vegetative,7,16
+SRR8692570,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR8692571,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR8692608,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR8692609,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR8692610,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR8692613,Solanaceae,Leaf,heat,Above,Vegetative,7,16
+SRR8692633,Solanaceae,Leaf,heat,Above,Vegetative,7,7
+SRR8692634,Solanaceae,Leaf,heat,Above,Vegetative,7,7
+SRR8692631,Solanaceae,Leaf,heat,Above,Vegetative,7,16
+SRR8692632,Solanaceae,Leaf,heat,Above,Vegetative,7,7
+SRR8692637,Solanaceae,Leaf,heat,Above,Vegetative,7,7
+SRR8692605,Solanaceae,Leaf,heat,Above,Vegetative,7,7
+SRR8692606,Solanaceae,Leaf,heat,Above,Vegetative,7,7
+SRR8692607,Solanaceae,Leaf,heat,Above,Vegetative,7,7
+SRR8692603,Solanaceae,Leaf,heat,Above,Vegetative,7,7
+SRR8692604,Solanaceae,Leaf,heat,Above,Vegetative,7,7
+SRR8692614,Solanaceae,Leaf,heat,Above,Vegetative,7,7
+SRR8692635,Solanaceae,Leaf,heat,Above,Vegetative,7,16
+SRR8692636,Solanaceae,Leaf,heat,Above,Vegetative,7,16
+SRR8692638,Solanaceae,Leaf,heat,Above,Vegetative,7,7
+SRR8692578,Solanaceae,Leaf,other,Above,Vegetative,7,16
+SRR8692585,Solanaceae,Leaf,other,Above,Vegetative,7,16
+SRR8692640,Solanaceae,Leaf,other,Above,Vegetative,7,16
+SRR8692581,Solanaceae,Leaf,other,Above,Vegetative,7,7
+SRR8692615,Solanaceae,Leaf,other,Above,Vegetative,7,7
+SRR8692630,Solanaceae,Leaf,other,Above,Vegetative,7,7
+SRR8692582,Solanaceae,Leaf,other,Above,Vegetative,7,7
+SRR8692584,Solanaceae,Leaf,other,Above,Vegetative,7,7
+SRR8692626,Solanaceae,Leaf,other,Above,Vegetative,7,7
+SRR8692586,Solanaceae,Leaf,other,Above,Vegetative,7,16
+SRR8692612,Solanaceae,Leaf,other,Above,Vegetative,7,16
+SRR8692643,Solanaceae,Leaf,other,Above,Vegetative,7,16
+SRR8692583,Solanaceae,Leaf,other,Above,Vegetative,7,7
+SRR8692628,Solanaceae,Leaf,other,Above,Vegetative,7,7
+SRR8692639,Solanaceae,Leaf,other,Above,Vegetative,7,7
+SRR8692623,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8692624,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8692625,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8692599,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8692600,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8692629,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8692596,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8692601,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8692602,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8692620,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8692621,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8692622,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8692580,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8692618,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8692619,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8692595,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8692597,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8692598,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8692579,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR8692594,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR8692644,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR8692593,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR8692616,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR8692617,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR8692588,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR8692641,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR8692642,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR8692587,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR8692589,Solanaceae,Leaf,salt,Above,Vegetative,7,16
+SRR8692590,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR8692611,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR8692627,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR8692645,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR6122660,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6122661,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6122676,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6122677,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6122682,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6122666,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6122668,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6122669,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6122670,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6122671,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6122673,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6122664,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6122665,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6122672,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6122680,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6122681,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6122683,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6122667,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6122674,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6122675,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6122688,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR6122689,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122690,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR6122678,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR6122679,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR6122684,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR6122685,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR6122686,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,18
+SRR6122687,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR6122691,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122692,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122693,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122611,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR6122612,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122613,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122614,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122615,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122616,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122608,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122609,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122617,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122619,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR6122624,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR6122625,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR6122610,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR6122626,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR6122627,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR6122618,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR6122620,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR6122621,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR6122622,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122623,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR6122694,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122701,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122702,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122703,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122698,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122699,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122700,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR6122695,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR6122696,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR6122697,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR771931,Solanaceae,Shoot,healthy,Above,Vegetative,18,19
+SRR771940,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR771924,Solanaceae,Shoot,healthy,Above,Vegetative,18,7
+SRR8549397,Solanaceae,Flower,healthy,Above,Reproductive,3,19
+SRR8549398,Solanaceae,Flower,healthy,Above,Reproductive,3,19
+SRR771942,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,8
+SRR771934,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR771951,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR771941,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR771933,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,8
+SRR771935,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,8
+SRR771936,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR771943,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR771929,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR771944,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR771945,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR771946,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR771953,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR771952,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR771954,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR771956,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR771955,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR771947,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR771938,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR771948,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,18
+SRR771939,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR771925,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR771928,Solanaceae,Flower,healthy,Above,Reproductive,3,19
+SRR771927,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR771932,Solanaceae,Flower,healthy,Above,Reproductive,3,0
+SRR8549402,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR8549403,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR8549404,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR8549399,Solanaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR8549400,Solanaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR8549401,Solanaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR1066056,Fabaceae,Root,cold,Below,Vegetative,13,7
+SRR1066057,Fabaceae,Root,drought,Below,Vegetative,13,8
+SRR1066058,Fabaceae,Root,salt,Below,Vegetative,13,0
+SRR1066059,Fabaceae,Root,healthy,Below,Vegetative,13,8
+SRR1066060,Fabaceae,Shoot,cold,Above,Vegetative,18,7
+SRR1066061,Fabaceae,Shoot,drought,Above,Vegetative,18,7
+SRR1066062,Fabaceae,Shoot,salt,Above,Vegetative,18,7
+SRR1066063,Fabaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR8100113,Solanaceae,Flower,healthy,Above,Reproductive,3,13
+SRR8100115,Solanaceae,Flower,healthy,Above,Reproductive,3,13
+SRR8100093,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8100094,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8100095,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8100099,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR8100100,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR8100111,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR8100105,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR8100106,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR8100112,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR8100103,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR8100104,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR8100109,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR8100107,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR8100108,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR8100110,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR8100096,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR8100097,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR8100098,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR8100101,Solanaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR8100102,Solanaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR8100114,Solanaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR771937,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,8
+SRR8100089,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8100090,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8100092,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR771926,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR771930,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,18
+SRR8100074,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR8100087,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR8100088,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR8100073,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR8100079,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,22
+SRR8100080,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR8100076,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR8100081,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR8100082,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR8100075,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR8100077,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR8100078,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR8100085,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR8100086,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR8100091,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR771949,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR8100072,Solanaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR8100083,Solanaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR8100084,Solanaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR771950,Solanaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR8100069,Solanaceae,Flower,healthy,Above,Reproductive,3,5
+SRR8100070,Solanaceae,Flower,healthy,Above,Reproductive,3,5
+SRR8100071,Solanaceae,Flower,healthy,Above,Reproductive,3,5
+SRR6389278,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6389279,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6389286,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6389280,Cucurbitaceae,Root,nitrogen,Below,Vegetative,13,13
+SRR6389281,Cucurbitaceae,Root,nitrogen,Below,Vegetative,13,13
+SRR6389288,Cucurbitaceae,Root,nitrogen,Below,Vegetative,13,13
+SRR6389282,Cucurbitaceae,Leaf,nitrogen,Above,Vegetative,7,7
+SRR6389283,Cucurbitaceae,Leaf,nitrogen,Above,Vegetative,7,7
+SRR6389289,Cucurbitaceae,Leaf,nitrogen,Above,Vegetative,7,7
+SRR6389284,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR6389285,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR6389287,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR2033940,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,19
+SRR2033941,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,0
+SRR2033942,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,9
+SRR2033943,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,7
+SRR915982,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR916132,Cucurbitaceae,Root,other,Below,Vegetative,13,13
+SRR916133,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR916135,Cucurbitaceae,Root,other,Below,Vegetative,13,13
+SRR916156,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR916184,Cucurbitaceae,Root,other,Below,Vegetative,13,13
+SRR916185,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR916186,Cucurbitaceae,Root,other,Below,Vegetative,13,13
+SRR7075814,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7075815,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7075816,Cucurbitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR7075817,Cucurbitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR7075818,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7075819,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7075820,Cucurbitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR7075821,Cucurbitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR7075822,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7075823,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7075824,Cucurbitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR7075825,Cucurbitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR7075826,Cucurbitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR7075827,Cucurbitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR7075828,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7075829,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR11040540,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR11040541,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR11040542,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR11040543,Cucurbitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR11040544,Cucurbitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR11040545,Cucurbitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR8177409,Cucurbitaceae,Flower,heat,Above,Reproductive,3,13
+SRR8177411,Cucurbitaceae,Flower,heat,Above,Reproductive,3,13
+SRR8177412,Cucurbitaceae,Flower,heat,Above,Reproductive,3,13
+SRR8177410,Cucurbitaceae,Flower,heat,Above,Reproductive,3,15
+SRR8177425,Cucurbitaceae,Flower,heat,Above,Reproductive,3,13
+SRR8177426,Cucurbitaceae,Flower,heat,Above,Reproductive,3,15
+SRR8177413,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,7
+SRR8177414,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,7
+SRR8177416,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,7
+SRR8177415,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,13
+SRR8177417,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,13
+SRR8177418,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,13
+SRR8177419,Cucurbitaceae,Flower,heat,Above,Reproductive,3,15
+SRR8177420,Cucurbitaceae,Flower,heat,Above,Reproductive,3,13
+SRR8177422,Cucurbitaceae,Flower,heat,Above,Reproductive,3,13
+SRR8177421,Cucurbitaceae,Flower,heat,Above,Reproductive,3,15
+SRR8177423,Cucurbitaceae,Flower,heat,Above,Reproductive,3,15
+SRR8177424,Cucurbitaceae,Flower,heat,Above,Reproductive,3,13
+SRR8528407,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR8528408,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR8528409,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR8528410,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR8528411,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR8528412,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR8528413,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR8528414,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR3535158,Cucurbitaceae,Seed,healthy,WholePlant,Reproductive,15,7
+SRR3535159,Cucurbitaceae,Seed,healthy,WholePlant,Reproductive,15,20
+SRR3535161,Cucurbitaceae,Seed,healthy,WholePlant,Reproductive,15,20
+SRR3535162,Cucurbitaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR3535163,Cucurbitaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR3535164,Cucurbitaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR3535165,Cucurbitaceae,Seed,healthy,WholePlant,Reproductive,15,8
+SRR3535166,Cucurbitaceae,Seed,healthy,WholePlant,Reproductive,15,8
+SRR3535167,Cucurbitaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR3535168,Cucurbitaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR3535169,Cucurbitaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR3535170,Cucurbitaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR3156550,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR3156551,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR3156552,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR3156553,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR3156554,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR3156555,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR3156556,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR3156557,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,8
+SRR3156558,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,8
+SRR3156559,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,8
+SRR3156560,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,8
+SRR3156561,Cucurbitaceae,Leaf,phosphorus,Above,Vegetative,7,16
+SRR3156562,Cucurbitaceae,Leaf,phosphorus,Above,Vegetative,7,16
+SRR3156563,Cucurbitaceae,Leaf,phosphorus,Above,Vegetative,7,16
+SRR3156564,Cucurbitaceae,Leaf,phosphorus,Above,Vegetative,7,16
+SRR3156565,Cucurbitaceae,Root,phosphorus,Below,Vegetative,13,13
+SRR3156566,Cucurbitaceae,Root,phosphorus,Below,Vegetative,13,13
+SRR3156567,Cucurbitaceae,Root,phosphorus,Below,Vegetative,13,13
+SRR3156568,Cucurbitaceae,Root,phosphorus,Below,Vegetative,13,13
+SRR3156569,Cucurbitaceae,Shoot,phosphorus,Above,Vegetative,18,8
+SRR3156570,Cucurbitaceae,Shoot,phosphorus,Above,Vegetative,18,8
+SRR3156571,Cucurbitaceae,Shoot,phosphorus,Above,Vegetative,18,8
+SRR3156572,Cucurbitaceae,Shoot,phosphorus,Above,Vegetative,18,8
+SRR5658201,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR5658202,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR5658203,Cucurbitaceae,Reproductive- Other,biotic,Above,Reproductive,12,7
+SRR5658204,Cucurbitaceae,Reproductive- Other,biotic,Above,Reproductive,12,7
+SRR7138068,Cucurbitaceae,Leaf,salt,Above,Vegetative,7,7
+SRR7138082,Cucurbitaceae,Leaf,salt,Above,Vegetative,7,7
+SRR7138083,Cucurbitaceae,Leaf,salt,Above,Vegetative,7,7
+SRR7138069,Cucurbitaceae,Leaf,salt,Above,Vegetative,7,7
+SRR7138070,Cucurbitaceae,Leaf,salt,Above,Vegetative,7,7
+SRR7138071,Cucurbitaceae,Leaf,salt,Above,Vegetative,7,7
+SRR7138084,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7138086,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7138087,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7138085,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7138090,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7138091,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR13364283,Cucurbitaceae,Leaf,cold,Above,Vegetative,7,16
+SRR13364284,Cucurbitaceae,Leaf,cold,Above,Vegetative,7,16
+SRR13364285,Cucurbitaceae,Leaf,cold,Above,Vegetative,7,16
+SRR13364286,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR13364287,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR13364288,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR5504353,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR5504354,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR5504355,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR5504356,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR5504357,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR5504358,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR5504359,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR5504360,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR5504361,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR5504362,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR5504363,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR10966354,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR10966355,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR10966356,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR10966357,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR10966358,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR10966359,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR10966360,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR10966361,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR10966362,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,0
+SRR10966363,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,3
+SRR10966364,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR10966365,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR10966366,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR10966367,Cucurbitaceae,Seed,healthy,WholePlant,Reproductive,15,16
+SRR10966368,Cucurbitaceae,Seed,healthy,WholePlant,Reproductive,15,13
+DRR106503,Cucurbitaceae,Other,healthy,Other,Other,8,13
+DRR106504,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+DRR106505,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,22
+DRR106506,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+DRR106507,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,22
+DRR106508,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+DRR106509,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,6
+DRR106510,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,18
+DRR106511,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+DRR106512,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+DRR106513,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+DRR106514,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+DRR106515,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+DRR106516,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,5
+DRR106517,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+DRR106518,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+DRR106519,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+DRR106520,Cucurbitaceae,Seed,healthy,WholePlant,Reproductive,15,15
+DRR106521,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,18
+DRR106522,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,18
+DRR106523,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,16
+DRR106524,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+DRR106525,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+DRR106526,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+DRR106527,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,0
+DRR106528,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+DRR106529,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,16
+DRR106530,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,16
+DRR106531,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,16
+DRR106532,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR1662989,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,7
+ERR1662990,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,13
+ERR1662991,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,13
+ERR1662992,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,13
+ERR1662993,Cucurbitaceae,Shoot,biotic,Above,Vegetative,18,13
+ERR1662994,Cucurbitaceae,Shoot,biotic,Above,Vegetative,18,13
+ERR1662995,Cucurbitaceae,Shoot,biotic,Above,Vegetative,18,13
+ERR1662996,Cucurbitaceae,Shoot,biotic,Above,Vegetative,18,13
+ERR1662997,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,13
+ERR1662998,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,13
+ERR1662999,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,16
+ERR1663000,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,16
+ERR1663001,Cucurbitaceae,Shoot,biotic,Above,Vegetative,18,13
+ERR1663002,Cucurbitaceae,Shoot,biotic,Above,Vegetative,18,13
+ERR1663003,Cucurbitaceae,Shoot,biotic,Above,Vegetative,18,13
+ERR1663004,Cucurbitaceae,Shoot,biotic,Above,Vegetative,18,13
+SRR5465679,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,19
+SRR5465681,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,19
+SRR5465682,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,8
+SRR5465684,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,8
+SRR5465686,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR5465696,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR5465688,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR5465690,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR5465692,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR5465694,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR9651393,Cucurbitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR2508879,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR2508880,Cucurbitaceae,Leaf,salt,Above,Vegetative,7,16
+SRR2508881,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR2508882,Cucurbitaceae,Leaf,salt,Above,Vegetative,7,16
+SRR6986536,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6986537,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,8
+SRR6986539,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6986538,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6986540,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6986541,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6986542,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6986543,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6986545,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6986544,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR6986548,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR6986549,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR6986546,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR6986547,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR6986553,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR6986550,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR6986551,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR6986552,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR11659065,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR11659066,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR11659067,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR11659068,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR11659069,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR11659070,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,18
+SRR11659071,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR11659072,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR11659073,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR11659074,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR9691130,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,18
+SRR9691131,Cucurbitaceae,Flower,other,Above,Reproductive,3,18
+SRR9691132,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,18
+SRR9691133,Cucurbitaceae,Flower,other,Above,Reproductive,3,18
+SRR9648343,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR9648344,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR9648345,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,13
+SRR9648346,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR9648347,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR9648350,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,13
+SRR9648351,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,13
+SRR9648358,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,13
+SRR9648359,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,13
+SRR9648361,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,13
+SRR9648362,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR9648363,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7138072,Cucurbitaceae,Leaf,salt,Above,Vegetative,7,7
+SRR7138073,Cucurbitaceae,Leaf,salt,Above,Vegetative,7,7
+SRR7138081,Cucurbitaceae,Leaf,salt,Above,Vegetative,7,7
+SRR7138074,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7138075,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7138076,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7138077,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7138078,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7138079,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7138080,Cucurbitaceae,Leaf,salt,Above,Vegetative,7,7
+SRR7138088,Cucurbitaceae,Leaf,salt,Above,Vegetative,7,7
+SRR7138089,Cucurbitaceae,Leaf,salt,Above,Vegetative,7,7
+SRR6821832,Cucurbitaceae,Root,salt,Below,Vegetative,13,13
+SRR6821833,Cucurbitaceae,Root,salt,Below,Vegetative,13,13
+SRR6821834,Cucurbitaceae,Root,salt,Below,Vegetative,13,13
+SRR6821838,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR6821839,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR6821840,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR5504342,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR5504343,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR5504344,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR5504345,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR5504346,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR5504347,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR5504348,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR5504349,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR5504350,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR5504351,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR12828719,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR12828720,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR12828721,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR12828722,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR12828723,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR12828724,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR8132885,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,18
+SRR8132886,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,18
+SRR8132887,Cucurbitaceae,Reproductive- Other,other,Above,Reproductive,12,16
+SRR8132888,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR8132889,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,18
+SRR8132890,Cucurbitaceae,Reproductive- Other,other,Above,Reproductive,12,16
+SRR5883139,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5883140,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5883141,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5682044,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR5682047,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6868816,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6868824,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6868829,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR6868817,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,16
+SRR6868819,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,16
+SRR6868823,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,16
+SRR6868818,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,16
+SRR6868825,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,16
+SRR6868828,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR6868820,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR6868821,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR6868822,Cucurbitaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR6868826,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6868827,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6868832,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6868830,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6868831,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6868833,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3938279,Amaranthacea,Shoot,healthy,Above,Vegetative,18,3
+SRR3938280,Amaranthacea,Shoot,healthy,Above,Vegetative,18,18
+SRR3938281,Amaranthacea,Seedling,healthy,WholePlant,WholePlant,16,16
+SRR3938282,Amaranthacea,Flower,healthy,Above,Reproductive,3,15
+SRR3938283,Amaranthacea,Leaf,healthy,Above,Vegetative,7,7
+SRR3938284,Amaranthacea,Shoot,healthy,Above,Vegetative,18,16
+SRR5920414,Brassicaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR5920413,Brassicaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR5920412,Brassicaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR5920411,Brassicaceae,Shoot,salt,Above,Vegetative,18,7
+SRR5920410,Brassicaceae,Shoot,salt,Above,Vegetative,18,7
+SRR5920409,Brassicaceae,Shoot,salt,Above,Vegetative,18,7
+SRR5920408,Brassicaceae,Root,healthy,Below,Vegetative,13,13
+SRR5920407,Brassicaceae,Root,healthy,Below,Vegetative,13,13
+SRR5920406,Brassicaceae,Root,healthy,Below,Vegetative,13,13
+SRR5920405,Brassicaceae,Root,salt,Below,Vegetative,13,13
+SRR5920404,Brassicaceae,Root,salt,Below,Vegetative,13,13
+SRR5920403,Brassicaceae,Root,salt,Below,Vegetative,13,13
+SRR1171897,Brassicaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR1171899,Brassicaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR1171901,Brassicaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR1171925,Brassicaceae,Shoot,healthy,Above,Vegetative,18,18
+SRR1171927,Brassicaceae,Shoot,healthy,Above,Vegetative,18,18
+SRR1171926,Brassicaceae,Shoot,healthy,Above,Vegetative,18,18
+SRR1171928,Brassicaceae,Root,healthy,Below,Vegetative,13,13
+SRR1171929,Brassicaceae,Root,healthy,Below,Vegetative,13,13
+SRR1171931,Brassicaceae,Root,healthy,Below,Vegetative,13,13
+SRR1171951,Brassicaceae,Flower,healthy,Above,Reproductive,3,16
+SRR1171950,Brassicaceae,Flower,healthy,Above,Reproductive,3,16
+SRR1171949,Brassicaceae,Flower,healthy,Above,Reproductive,3,16
+SRR1171972,Brassicaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR1171971,Brassicaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR1171973,Brassicaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR2148999,Apiaceae,Seed,healthy,WholePlant,Reproductive,15,13
+SRR2148998,Apiaceae,Leaf,other,Above,Vegetative,7,18
+SRR2148997,Apiaceae,Root,other,Below,Vegetative,13,13
+SRR2148996,Apiaceae,Leaf,other,Above,Vegetative,7,7
+SRR2148994,Apiaceae,Leaf,other,Above,Vegetative,7,16
+SRR2148993,Apiaceae,Leaf,other,Above,Vegetative,7,16
+SRR2148992,Apiaceae,Shoot,healthy,Above,Vegetative,18,13
+SRR2148991,Apiaceae,Root,healthy,Below,Vegetative,13,13
+SRR2148990,Apiaceae,Root,healthy,Below,Vegetative,13,13
+SRR2148989,Apiaceae,Root,healthy,Below,Vegetative,13,16
+SRR2148988,Apiaceae,Root,healthy,Below,Vegetative,13,16
+SRR2148987,Apiaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR2148986,Apiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR2148985,Apiaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR2148984,Apiaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR2148983,Apiaceae,Flower,healthy,Above,Reproductive,3,19
+SRR2148982,Apiaceae,Flower,healthy,Above,Reproductive,3,7
+SRR2148981,Apiaceae,Flower,healthy,Above,Reproductive,3,7
+SRR2148980,Apiaceae,Flower,healthy,Above,Reproductive,3,19
+SRR2148979,Apiaceae,Flower,healthy,Above,Reproductive,3,18
+ERR1817363,Rosaceae,Leaf,healthy,Above,Vegetative,7,16
+ERR1817364,Rosaceae,Leaf,healthy,Above,Vegetative,7,16
+ERR1817365,Rosaceae,Leaf,healthy,Above,Vegetative,7,16
+ERR1817366,Rosaceae,Root,healthy,Below,Vegetative,13,13
+ERR1817367,Rosaceae,Root,healthy,Below,Vegetative,13,13
+ERR1817368,Rosaceae,Root,healthy,Below,Vegetative,13,13
+SRR8298768,Rosaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR8298769,Rosaceae,Flower,healthy,Above,Reproductive,3,5
+SRR8298770,Rosaceae,Flower,healthy,Above,Reproductive,3,13
+SRR8298771,Rosaceae,Root,salt,Below,Vegetative,13,13
+SRR8298772,Rosaceae,Root,healthy,Below,Vegetative,13,19
+SRR1695160,Malvaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR1695161,Malvaceae,Seed,healthy,WholePlant,Reproductive,15,13
+SRR1695162,Malvaceae,Seed,healthy,WholePlant,Reproductive,15,13
+SRR1695163,Malvaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+SRR1695164,Malvaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+SRR1695165,Malvaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR1695166,Malvaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR1695167,Malvaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+SRR1695168,Malvaceae,Root,healthy,Below,Vegetative,13,13
+SRR1695169,Malvaceae,Root,healthy,Below,Vegetative,13,13
+SRR1695170,Malvaceae,Root,healthy,Below,Vegetative,13,13
+SRR1695171,Malvaceae,Root,healthy,Below,Vegetative,13,13
+SRR1695172,Malvaceae,Root,healthy,Below,Vegetative,13,13
+SRR1695173,Malvaceae,Root,healthy,Below,Vegetative,13,13
+SRR1695174,Malvaceae,Shoot,healthy,Above,Vegetative,18,13
+SRR1695175,Malvaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR1695176,Malvaceae,Other,healthy,Other,Other,8,7
+SRR1695177,Malvaceae,Flower,healthy,Above,Reproductive,3,0
+SRR1695178,Malvaceae,Flower,healthy,Above,Reproductive,3,0
+SRR1695179,Malvaceae,Flower,healthy,Above,Reproductive,3,15
+SRR1695180,Malvaceae,Other,healthy,Other,Other,8,7
+SRR1695181,Malvaceae,Other,healthy,Other,Other,8,8
+SRR1695182,Malvaceae,Other,healthy,Other,Other,8,15
+SRR1695183,Malvaceae,Other,healthy,Other,Other,8,8
+SRR1695184,Malvaceae,Other,healthy,Other,Other,8,15
+SRR1695185,Malvaceae,Other,healthy,Other,Other,8,15
+SRR1695186,Malvaceae,Other,healthy,Other,Other,8,15
+SRR1695187,Malvaceae,Other,healthy,Other,Other,8,13
+SRR1695188,Malvaceae,Other,healthy,Other,Other,8,13
+SRR1695189,Malvaceae,Other,healthy,Other,Other,8,15
+SRR1695190,Malvaceae,Other,healthy,Other,Other,8,15
+SRR1695191,Malvaceae,Other,healthy,Other,Other,8,15
+SRR1695192,Malvaceae,Other,healthy,Other,Other,8,13
+SRR1695193,Malvaceae,Other,healthy,Other,Other,8,13
+SRR1695194,Malvaceae,Other,healthy,Other,Other,8,13
+SRR1768504,Malvaceae,Leaf,cold,Above,Vegetative,7,7
+SRR1768505,Malvaceae,Leaf,cold,Above,Vegetative,7,7
+SRR1768506,Malvaceae,Leaf,cold,Above,Vegetative,7,16
+SRR1768507,Malvaceae,Leaf,cold,Above,Vegetative,7,7
+SRR1768508,Malvaceae,Leaf,heat,Above,Vegetative,7,7
+SRR1768509,Malvaceae,Leaf,heat,Above,Vegetative,7,7
+SRR1768510,Malvaceae,Leaf,heat,Above,Vegetative,7,16
+SRR1768511,Malvaceae,Leaf,heat,Above,Vegetative,7,16
+SRR1768512,Malvaceae,Leaf,salt,Above,Vegetative,7,7
+SRR1768513,Malvaceae,Leaf,salt,Above,Vegetative,7,7
+SRR1768514,Malvaceae,Leaf,salt,Above,Vegetative,7,7
+SRR1768515,Malvaceae,Leaf,salt,Above,Vegetative,7,7
+SRR1768516,Malvaceae,Leaf,other,Above,Vegetative,7,7
+SRR1768517,Malvaceae,Leaf,other,Above,Vegetative,7,7
+SRR1768518,Malvaceae,Leaf,other,Above,Vegetative,7,7
+SRR1768519,Malvaceae,Leaf,other,Above,Vegetative,7,7
+SRR1768520,Malvaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1768521,Malvaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR1768522,Malvaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1768523,Malvaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1768524,Malvaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8113445,Malvaceae,Leaf,cold,Above,Vegetative,7,16
+SRR8115523,Malvaceae,Leaf,cold,Above,Vegetative,7,7
+SRR8136840,Malvaceae,Leaf,cold,Above,Vegetative,7,16
+SRR8117284,Malvaceae,Leaf,cold,Above,Vegetative,7,16
+SRR8142950,Malvaceae,Leaf,cold,Above,Vegetative,7,16
+SRR8146228,Malvaceae,Leaf,cold,Above,Vegetative,7,7
+SRR8149448,Malvaceae,Leaf,cold,Above,Vegetative,7,7
+SRR8156069,Malvaceae,Leaf,cold,Above,Vegetative,7,7
+SRR8162806,Malvaceae,Leaf,cold,Above,Vegetative,7,16
+SRR8121126,Malvaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8144251,Malvaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8156028,Malvaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8894224,Malvaceae,Seedling,salt,WholePlant,WholePlant,16,13
+SRR8894225,Malvaceae,Seedling,salt,WholePlant,WholePlant,16,13
+SRR8894261,Malvaceae,Seedling,salt,WholePlant,WholePlant,16,13
+SRR8894260,Malvaceae,Seedling,salt,WholePlant,WholePlant,16,13
+SRR8894259,Malvaceae,Seedling,salt,WholePlant,WholePlant,16,13
+SRR8894258,Malvaceae,Seedling,salt,WholePlant,WholePlant,16,13
+SRR8894243,Malvaceae,Seedling,healthy,WholePlant,WholePlant,16,13
+SRR8894245,Malvaceae,Seedling,healthy,WholePlant,WholePlant,16,13
+SRR8894246,Malvaceae,Seedling,healthy,WholePlant,WholePlant,16,13
+SRR8894263,Malvaceae,Seedling,salt,WholePlant,WholePlant,16,13
+SRR8894264,Malvaceae,Seedling,salt,WholePlant,WholePlant,16,13
+SRR8894265,Malvaceae,Seedling,salt,WholePlant,WholePlant,16,13
+SRR8894262,Malvaceae,Seedling,salt,WholePlant,WholePlant,16,13
+SRR8894267,Malvaceae,Seedling,salt,WholePlant,WholePlant,16,13
+SRR8894268,Malvaceae,Seedling,salt,WholePlant,WholePlant,16,13
+SRR8894239,Malvaceae,Seedling,salt,WholePlant,WholePlant,16,13
+SRR8894241,Malvaceae,Seedling,salt,WholePlant,WholePlant,16,13
+SRR8894270,Malvaceae,Seedling,salt,WholePlant,WholePlant,16,13
+SRR8894236,Malvaceae,Seedling,other,WholePlant,WholePlant,16,13
+SRR8894238,Malvaceae,Seedling,other,WholePlant,WholePlant,16,13
+SRR8894271,Malvaceae,Seedling,other,WholePlant,WholePlant,16,13
+SRR8894227,Malvaceae,Seedling,other,WholePlant,WholePlant,16,13
+SRR8894252,Malvaceae,Seedling,other,WholePlant,WholePlant,16,13
+SRR8894257,Malvaceae,Seedling,other,WholePlant,WholePlant,16,13
+SRR8894253,Malvaceae,Seedling,other,WholePlant,WholePlant,16,13
+SRR8894266,Malvaceae,Seedling,other,WholePlant,WholePlant,16,13
+SRR8894269,Malvaceae,Seedling,other,WholePlant,WholePlant,16,13
+SRR8894226,Malvaceae,Seedling,other,WholePlant,WholePlant,16,13
+SRR8894237,Malvaceae,Seedling,other,WholePlant,WholePlant,16,13
+SRR8894249,Malvaceae,Seedling,other,WholePlant,WholePlant,16,13
+SRR8894251,Malvaceae,Seedling,other,WholePlant,WholePlant,16,13
+SRR8894254,Malvaceae,Seedling,other,WholePlant,WholePlant,16,13
+SRR8894256,Malvaceae,Seedling,other,WholePlant,WholePlant,16,13
+SRR8894240,Malvaceae,Root,biotic,Below,Vegetative,13,13
+SRR8894247,Malvaceae,Root,biotic,Below,Vegetative,13,13
+SRR8894248,Malvaceae,Root,biotic,Below,Vegetative,13,13
+SRR8894230,Malvaceae,Root,biotic,Below,Vegetative,13,13
+SRR8894231,Malvaceae,Root,biotic,Below,Vegetative,13,13
+SRR8894242,Malvaceae,Root,biotic,Below,Vegetative,13,13
+SRR8894228,Malvaceae,Root,biotic,Below,Vegetative,13,13
+SRR8894229,Malvaceae,Root,biotic,Below,Vegetative,13,13
+SRR8894234,Malvaceae,Root,biotic,Below,Vegetative,13,13
+SRR8894244,Malvaceae,Root,biotic,Below,Vegetative,13,13
+SRR8894250,Malvaceae,Root,biotic,Below,Vegetative,13,13
+SRR8894255,Malvaceae,Root,biotic,Below,Vegetative,13,13
+SRR8894232,Malvaceae,Root,biotic,Below,Vegetative,13,13
+SRR8894233,Malvaceae,Root,biotic,Below,Vegetative,13,13
+SRR8894235,Malvaceae,Root,biotic,Below,Vegetative,13,13
+SRR1268082,Fabaceae,Root,healthy,Below,Vegetative,13,15
+SRR1268083,Fabaceae,Root,healthy,Below,Vegetative,13,15
+SRR1268084,Fabaceae,Root,healthy,Below,Vegetative,13,15
+SRR1268085,Fabaceae,Root,drought,Below,Vegetative,13,13
+SRR1268086,Fabaceae,Root,drought,Below,Vegetative,13,13
+SRR1268087,Fabaceae,Root,drought,Below,Vegetative,13,13
+SRR1268088,Fabaceae,Root,drought,Below,Vegetative,13,13
+SRR1268089,Fabaceae,Root,drought,Below,Vegetative,13,13
+SRR1268090,Fabaceae,Root,drought,Below,Vegetative,13,13
+SRR1268091,Fabaceae,Root,drought,Below,Vegetative,13,13
+SRR1268092,Fabaceae,Root,drought,Below,Vegetative,13,13
+SRR1268093,Fabaceae,Root,drought,Below,Vegetative,13,13
+SRR1268094,Fabaceae,Root,salt,Below,Vegetative,13,13
+SRR1268095,Fabaceae,Root,salt,Below,Vegetative,13,13
+SRR1268096,Fabaceae,Root,salt,Below,Vegetative,13,13
+SRR1268097,Fabaceae,Root,salt,Below,Vegetative,13,13
+SRR1268098,Fabaceae,Root,salt,Below,Vegetative,13,13
+SRR1268099,Fabaceae,Root,salt,Below,Vegetative,13,13
+SRR1268100,Fabaceae,Root,salt,Below,Vegetative,13,13
+SRR1268101,Fabaceae,Root,salt,Below,Vegetative,13,13
+SRR1268102,Fabaceae,Root,salt,Below,Vegetative,13,13
+SRR2048167,Fabaceae,Leaf,drought,Above,Vegetative,7,13
+SRR2048168,Fabaceae,Leaf,drought,Above,Vegetative,7,13
+SRR2048169,Fabaceae,Leaf,drought,Above,Vegetative,7,13
+SRR2048170,Fabaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR2048171,Fabaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR2048172,Fabaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR2048173,Fabaceae,Leaf,drought,Above,Vegetative,7,18
+SRR2048174,Fabaceae,Leaf,drought,Above,Vegetative,7,16
+SRR2048175,Fabaceae,Leaf,drought,Above,Vegetative,7,7
+SRR2048176,Fabaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR2048177,Fabaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR2048178,Fabaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR2048191,Fabaceae,Leaf,drought,Above,Vegetative,7,16
+SRR2048192,Fabaceae,Leaf,drought,Above,Vegetative,7,16
+SRR2048193,Fabaceae,Leaf,drought,Above,Vegetative,7,16
+SRR2048194,Fabaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR2048195,Fabaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR2048196,Fabaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR2048200,Fabaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR2048201,Fabaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR2048202,Fabaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR7601335,Fabaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR7601336,Fabaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR7601337,Fabaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR7601338,Fabaceae,Leaf,cold,Above,Vegetative,7,7
+SRR7601339,Fabaceae,Leaf,cold,Above,Vegetative,7,7
+SRR7601340,Fabaceae,Leaf,cold,Above,Vegetative,7,7
+SRR7601341,Fabaceae,Leaf,cold,Above,Vegetative,7,7
+SRR7601342,Fabaceae,Leaf,cold,Above,Vegetative,7,7
+SRR7601343,Fabaceae,Leaf,cold,Above,Vegetative,7,7
+SRR1174206,Fabaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1174226,Fabaceae,Leaf,healthy,Above,Vegetative,7,19
+SRR1174229,Fabaceae,Leaf,healthy,Above,Vegetative,7,19
+SRR1174205,Fabaceae,Root,healthy,Below,Vegetative,13,19
+SRR1174231,Fabaceae,Shoot,healthy,Above,Vegetative,18,7
+SRR1174217,Fabaceae,Flower,healthy,Above,Reproductive,3,19
+SRR1174218,Fabaceae,Flower,healthy,Above,Reproductive,3,19
+SRR1174219,Fabaceae,Flower,healthy,Above,Reproductive,3,19
+SRR1174220,Fabaceae,Flower,healthy,Above,Reproductive,3,19
+SRR1174232,Fabaceae,Flower,healthy,Above,Reproductive,3,19
+SRR1174207,Fabaceae,Seed,healthy,WholePlant,Reproductive,15,7
+SRR1174208,Fabaceae,Seed,healthy,WholePlant,Reproductive,15,7
+SRR1174222,Fabaceae,Seed,healthy,WholePlant,Reproductive,15,7
+SRR1174225,Fabaceae,Seed,healthy,WholePlant,Reproductive,15,7
+SRR1174233,Fabaceae,Seed,healthy,WholePlant,Reproductive,15,7
+SRR1174221,Fabaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR1174223,Fabaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR1174224,Fabaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR4996791,Asteraceae,Leaf,other,Above,Vegetative,7,16
+SRR4996792,Asteraceae,Leaf,healthy,Above,Vegetative,7,16
+SRR4996793,Asteraceae,Leaf,drought,Above,Vegetative,7,7
+SRR4996796,Asteraceae,Leaf,other,Above,Vegetative,7,16
+SRR4996802,Asteraceae,Leaf,drought,Above,Vegetative,7,7
+SRR4996804,Asteraceae,Leaf,drought,Above,Vegetative,7,7
+SRR4996810,Asteraceae,Leaf,drought,Above,Vegetative,7,16
+SRR4996813,Asteraceae,Leaf,drought,Above,Vegetative,7,7
+SRR4996824,Asteraceae,Leaf,drought,Above,Vegetative,7,7
+SRR4996825,Asteraceae,Leaf,drought,Above,Vegetative,7,7
+SRR4996795,Asteraceae,Leaf,other,Above,Vegetative,7,16
+SRR4996794,Asteraceae,Leaf,other,Above,Vegetative,7,18
+SRR4996797,Asteraceae,Leaf,other,Above,Vegetative,7,13
+SRR4996798,Asteraceae,Leaf,healthy,Above,Vegetative,7,16
+SRR4996799,Asteraceae,Shoot,healthy,Above,Vegetative,18,7
+SRR4996800,Asteraceae,Leaf,healthy,Above,Vegetative,7,7
+SRR4996801,Asteraceae,Leaf,healthy,Above,Vegetative,7,16
+SRR4996803,Asteraceae,Leaf,other,Above,Vegetative,7,13
+SRR4996805,Asteraceae,Root,healthy,Below,Vegetative,13,13
+SRR4996806,Asteraceae,Leaf,healthy,Above,Vegetative,7,16
+SRR4996807,Asteraceae,Leaf,healthy,Above,Vegetative,7,16
+SRR4996808,Asteraceae,Flower,healthy,Above,Reproductive,3,13
+SRR4996809,Asteraceae,Flower,healthy,Above,Reproductive,3,13
+SRR4996811,Asteraceae,Root,other,Below,Vegetative,13,13
+SRR4996812,Asteraceae,Leaf,other,Above,Vegetative,7,16
+SRR4996814,Asteraceae,Flower,healthy,Above,Reproductive,3,13
+SRR4996815,Asteraceae,Leaf,other,Above,Vegetative,7,13
+SRR4996816,Asteraceae,Root,other,Below,Vegetative,13,16
+SRR4996817,Asteraceae,Leaf,healthy,Above,Vegetative,7,16
+SRR4996818,Asteraceae,Root,healthy,Below,Vegetative,13,13
+SRR4996819,Asteraceae,Root,salt,Below,Vegetative,13,13
+SRR4996820,Asteraceae,Root,healthy,Below,Vegetative,13,13
+SRR4996821,Asteraceae,Leaf,healthy,Above,Vegetative,7,16
+SRR4996822,Asteraceae,Flower,healthy,Above,Reproductive,3,7
+SRR4996823,Asteraceae,Leaf,other,Above,Vegetative,7,16
+SRR4996826,Asteraceae,Root,other,Below,Vegetative,13,13
+SRR4996827,Asteraceae,Leaf,other,Above,Vegetative,7,16
+SRR4996828,Asteraceae,Leaf,healthy,Above,Vegetative,7,13
+SRR4996829,Asteraceae,Leaf,other,Above,Vegetative,7,16
+SRR4996830,Asteraceae,Leaf,drought,Above,Vegetative,7,7
+SRR1028011,Poaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR1028012,Poaceae,Leaf,healthy,Above,Vegetative,7,8
+SRR1049626,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1049570,Poaceae,Leaf,salt,Above,Vegetative,7,7
+SRR1049587,Poaceae,Leaf,salt,Above,Vegetative,7,7
+SRR1055527,Poaceae,Leaf,salt,Above,Vegetative,7,22
+SRR1049592,Poaceae,Leaf,salt,Above,Vegetative,7,22
+SRR1049609,Poaceae,Leaf,salt,Above,Vegetative,7,7
+SRR1049643,Poaceae,Leaf,salt,Above,Vegetative,7,18
+SRR1049648,Poaceae,Leaf,salt,Above,Vegetative,7,8
+SRR1049655,Poaceae,Leaf,salt,Above,Vegetative,7,8
+ERR233228,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+ERR233236,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+ERR233243,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+ERR233251,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+ERR233259,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+ERR233266,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+ERR233229,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR233237,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR233244,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR233252,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR233260,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR233267,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR233230,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR233238,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR233245,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR233253,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR233261,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR233268,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR233231,Poaceae,Seed,healthy,WholePlant,Reproductive,15,16
+ERR233239,Poaceae,Seed,healthy,WholePlant,Reproductive,15,19
+ERR233246,Poaceae,Seed,healthy,WholePlant,Reproductive,15,19
+ERR233254,Poaceae,Seed,healthy,WholePlant,Reproductive,15,16
+ERR233262,Poaceae,Seed,healthy,WholePlant,Reproductive,15,16
+ERR233269,Poaceae,Seed,healthy,WholePlant,Reproductive,15,19
+ERR233232,Poaceae,Shoot,healthy,Above,Vegetative,18,7
+ERR233240,Poaceae,Shoot,healthy,Above,Vegetative,18,7
+ERR233247,Poaceae,Shoot,healthy,Above,Vegetative,18,7
+ERR233255,Poaceae,Shoot,healthy,Above,Vegetative,18,7
+ERR233263,Poaceae,Shoot,healthy,Above,Vegetative,18,7
+ERR233270,Poaceae,Shoot,healthy,Above,Vegetative,18,7
+ERR233233,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR233241,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR233248,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR233256,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR233264,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR233271,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR233234,Poaceae,Shoot,healthy,Above,Vegetative,18,7
+ERR233249,Poaceae,Shoot,healthy,Above,Vegetative,18,7
+ERR233257,Poaceae,Shoot,healthy,Above,Vegetative,18,7
+ERR233272,Poaceae,Shoot,healthy,Above,Vegetative,18,7
+ERR233274,Poaceae,Shoot,healthy,Above,Vegetative,18,7
+ERR233235,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR233242,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR233250,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR233258,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR233265,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR233273,Poaceae,Flower,healthy,Above,Reproductive,3,13
+SRR5918238,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918239,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918240,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918241,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918242,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918243,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918244,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918245,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918246,Crassulaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+SRR5918247,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918248,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918249,Crassulaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR5918250,Crassulaceae,Root,healthy,Below,Vegetative,13,13
+SRR5918251,Crassulaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR5918252,Crassulaceae,Root,healthy,Below,Vegetative,13,13
+SRR5918253,Crassulaceae,Root,healthy,Below,Vegetative,13,13
+SRR5918254,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918255,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918256,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918257,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918258,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918259,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918260,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918261,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918262,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918263,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918264,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918265,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918266,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918267,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918268,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918269,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918270,Crassulaceae,Flower,healthy,Above,Reproductive,3,19
+SRR5918271,Crassulaceae,Flower,healthy,Above,Reproductive,3,19
+SRR5918272,Crassulaceae,Flower,healthy,Above,Reproductive,3,19
+SRR5918273,Crassulaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+SRR5918274,Crassulaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR5918275,Crassulaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5918276,Crassulaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5918277,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918278,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918279,Crassulaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5918280,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918281,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918282,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918283,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918284,Crassulaceae,Leaf,light,Above,Vegetative,7,7
+SRR5918285,Crassulaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR10251169,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR10251174,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR10251178,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR10251179,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,7
+SRR5590270,Cucurbitaceae,Flower,healthy,Above,Reproductive,3,0
+SRR5590271,Cucurbitaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR5590272,Cucurbitaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR5590273,Cucurbitaceae,Root,healthy,Below,Vegetative,13,13
+SRR5590274,Cucurbitaceae,Shoot,healthy,Above,Vegetative,18,18
+SRR5405130,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR6320531,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5405131,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR6320446,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5405132,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR6320447,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5405133,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR6320444,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5405134,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5405135,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5405136,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR6320445,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5405137,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR6320442,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR5405138,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR5405139,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR5405140,Musaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5405141,Musaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6320438,Musaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6320441,Musaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6320439,Musaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6320573,Musaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6320440,Musaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6320443,Musaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5877207,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5877208,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5877209,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR5877210,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR5877211,Musaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR5877212,Musaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR5877213,Musaceae,Seedling,cold,WholePlant,WholePlant,16,7
+SRR5877214,Musaceae,Seedling,cold,WholePlant,WholePlant,16,7
+SRR5877215,Musaceae,Seedling,other,WholePlant,WholePlant,16,7
+SRR5877216,Musaceae,Seedling,other,WholePlant,WholePlant,16,7
+SRR5877217,Musaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR5877222,Musaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR5877218,Musaceae,Seedling,salt,WholePlant,WholePlant,16,7
+SRR5877219,Musaceae,Seedling,salt,WholePlant,WholePlant,16,7
+SRR5877220,Musaceae,Seedling,other,WholePlant,WholePlant,16,7
+SRR5877221,Musaceae,Seedling,other,WholePlant,WholePlant,16,7
+SRR5877223,Musaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR5877224,Musaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR5877225,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5877226,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5877227,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5877228,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5877229,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5877230,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5877231,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR5877232,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5877233,Musaceae,Seedling,salt,WholePlant,WholePlant,16,7
+SRR5877234,Musaceae,Seedling,salt,WholePlant,WholePlant,16,7
+SRR5877235,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5877236,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5877237,Musaceae,Root,healthy,Below,Vegetative,13,13
+SRR5877238,Musaceae,Root,healthy,Below,Vegetative,13,13
+SRR5877239,Musaceae,Root,healthy,Below,Vegetative,13,13
+SRR5877240,Musaceae,Root,healthy,Below,Vegetative,13,13
+SRR5877241,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5877242,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5877243,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5877244,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5877245,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5877246,Musaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5958093,Musaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5958094,Musaceae,Leaf,other,Above,Vegetative,7,7
+SRR5958095,Musaceae,Root,healthy,Below,Vegetative,13,13
+SRR5958096,Musaceae,Root,other,Below,Vegetative,13,13
+SRR4292572,Musaceae,Leaf,cold,Above,Vegetative,7,7
+SRR4292573,Musaceae,Leaf,cold,Above,Vegetative,7,7
+SRR4292574,Musaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR4292575,Musaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR4292576,Musaceae,Leaf,other,Above,Vegetative,7,7
+SRR4292578,Musaceae,Leaf,other,Above,Vegetative,7,7
+SRR4292579,Musaceae,Leaf,salt,Above,Vegetative,7,7
+SRR4292580,Musaceae,Leaf,salt,Above,Vegetative,7,7
+SRR4292581,Musaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR4292582,Musaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR4292584,Musaceae,Leaf,other,Above,Vegetative,7,7
+SRR4292585,Musaceae,Leaf,other,Above,Vegetative,7,7
+SRR4292586,Musaceae,Leaf,salt,Above,Vegetative,7,7
+SRR4292587,Musaceae,Leaf,salt,Above,Vegetative,7,7
+SRR4292588,Musaceae,Leaf,cold,Above,Vegetative,7,7
+SRR4292589,Musaceae,Leaf,cold,Above,Vegetative,7,7
+SRR3474213,Musaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3481070,Musaceae,Leaf,heat,Above,Vegetative,7,16
+SRR3484437,Musaceae,Leaf,heat,Above,Vegetative,7,7
+SRR3499227,Musaceae,Leaf,heat,Above,Vegetative,7,7
+SRR3499241,Musaceae,Leaf,heat,Above,Vegetative,7,7
+SRR3509294,Musaceae,Leaf,heat,Above,Vegetative,7,7
+SRR1582384,Musaceae,Leaf,cold,Above,Vegetative,7,7
+SRR1582385,Musaceae,Leaf,cold,Above,Vegetative,7,7
+SRR1582386,Musaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1582387,Musaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1582388,Musaceae,Leaf,cold,Above,Vegetative,7,7
+SRR1582389,Musaceae,Leaf,cold,Above,Vegetative,7,7
+SRR1339902,Musaceae,Root,salt,Below,Vegetative,13,13
+SRR1339507,Musaceae,Root,healthy,Below,Vegetative,13,13
+SRR8661622,Musaceae,Root,healthy,Below,Vegetative,13,13
+SRR8661623,Musaceae,Root,healthy,Below,Vegetative,13,13
+SRR8661624,Musaceae,Root,healthy,Below,Vegetative,13,13
+SRR8661625,Musaceae,Root,healthy,Below,Vegetative,13,13
+SRR8661636,Musaceae,Root,healthy,Below,Vegetative,13,13
+SRR8661637,Musaceae,Root,healthy,Below,Vegetative,13,13
+SRR8661626,Musaceae,Root,healthy,Below,Vegetative,13,13
+SRR8661627,Musaceae,Root,healthy,Below,Vegetative,13,13
+SRR8661634,Musaceae,Root,healthy,Below,Vegetative,13,13
+SRR8661628,Musaceae,Root,biotic,Below,Vegetative,13,13
+SRR8661629,Musaceae,Root,biotic,Below,Vegetative,13,13
+SRR8661631,Musaceae,Root,biotic,Below,Vegetative,13,13
+SRR8661630,Musaceae,Root,biotic,Below,Vegetative,13,13
+SRR8661632,Musaceae,Root,biotic,Below,Vegetative,13,13
+SRR8661633,Musaceae,Root,biotic,Below,Vegetative,13,13
+SRR8661635,Musaceae,Root,healthy,Below,Vegetative,13,13
+SRR8661644,Musaceae,Root,healthy,Below,Vegetative,13,13
+SRR8661645,Musaceae,Root,healthy,Below,Vegetative,13,13
+SRR8661638,Musaceae,Root,biotic,Below,Vegetative,13,13
+SRR8661639,Musaceae,Root,biotic,Below,Vegetative,13,13
+SRR8661641,Musaceae,Root,biotic,Below,Vegetative,13,13
+SRR8661640,Musaceae,Root,biotic,Below,Vegetative,13,13
+SRR8661642,Musaceae,Root,biotic,Below,Vegetative,13,13
+SRR8661643,Musaceae,Root,biotic,Below,Vegetative,13,13
+SRR12223529,Rosaceae,Root,healthy,Below,Vegetative,13,13
+SRR12223530,Rosaceae,Root,healthy,Below,Vegetative,13,13
+SRR12223531,Rosaceae,Root,healthy,Below,Vegetative,13,13
+SRR12223525,Rosaceae,Root,salt,Below,Vegetative,13,13
+SRR12223526,Rosaceae,Root,salt,Below,Vegetative,13,13
+SRR12223527,Rosaceae,Root,salt,Below,Vegetative,13,13
+SRR12223522,Rosaceae,Root,salt,Below,Vegetative,13,13
+SRR12223523,Rosaceae,Root,salt,Below,Vegetative,13,13
+SRR12223524,Rosaceae,Root,salt,Below,Vegetative,13,13
+SRR12223519,Rosaceae,Root,salt,Below,Vegetative,13,13
+SRR12223520,Rosaceae,Root,salt,Below,Vegetative,13,13
+SRR12223521,Rosaceae,Root,salt,Below,Vegetative,13,13
+SRR3744950,Rosaceae,Root,other,Below,Vegetative,13,13
+SRR3744951,Rosaceae,Root,other,Below,Vegetative,13,13
+SRR3744952,Rosaceae,Root,healthy,Below,Vegetative,13,13
+SRR3744953,Rosaceae,Root,healthy,Below,Vegetative,13,13
+SRR3629818,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3629835,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR3629853,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3629819,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,17
+SRR3629837,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR3629854,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,17
+SRR3629821,Euphorbiaceae,Other,healthy,Other,Other,8,16
+SRR3629838,Euphorbiaceae,Other,healthy,Other,Other,8,19
+SRR3629856,Euphorbiaceae,Other,healthy,Other,Other,8,13
+SRR3629822,Euphorbiaceae,Other,healthy,Other,Other,8,3
+SRR3629840,Euphorbiaceae,Other,healthy,Other,Other,8,15
+SRR3629858,Euphorbiaceae,Other,healthy,Other,Other,8,3
+SRR3629824,Euphorbiaceae,Shoot,healthy,Above,Vegetative,18,18
+SRR3629842,Euphorbiaceae,Shoot,healthy,Above,Vegetative,18,13
+SRR3629859,Euphorbiaceae,Shoot,healthy,Above,Vegetative,18,13
+SRR3629825,Euphorbiaceae,Root,healthy,Below,Vegetative,13,13
+SRR3629843,Euphorbiaceae,Root,healthy,Below,Vegetative,13,13
+SRR3629827,Euphorbiaceae,Root,healthy,Below,Vegetative,13,13
+SRR3629845,Euphorbiaceae,Root,healthy,Below,Vegetative,13,13
+SRR3629861,Euphorbiaceae,Root,healthy,Below,Vegetative,13,13
+SRR3629829,Euphorbiaceae,Other,healthy,Other,Other,8,13
+SRR3629847,Euphorbiaceae,Other,healthy,Other,Other,8,13
+SRR3629862,Euphorbiaceae,Other,healthy,Other,Other,8,13
+SRR3629830,Euphorbiaceae,Other,healthy,Other,Other,8,13
+SRR3629848,Euphorbiaceae,Other,healthy,Other,Other,8,13
+SRR3629864,Euphorbiaceae,Other,healthy,Other,Other,8,13
+SRR3629832,Euphorbiaceae,Shoot,healthy,Above,Vegetative,18,18
+SRR3629850,Euphorbiaceae,Shoot,healthy,Above,Vegetative,18,18
+SRR3629865,Euphorbiaceae,Shoot,healthy,Above,Vegetative,18,18
+SRR3629834,Euphorbiaceae,Shoot,healthy,Above,Vegetative,18,13
+SRR3629851,Euphorbiaceae,Shoot,healthy,Above,Vegetative,18,13
+SRR3629867,Euphorbiaceae,Shoot,healthy,Above,Vegetative,18,13
+SRR5140222,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5140223,Euphorbiaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR5140224,Euphorbiaceae,Root,healthy,Below,Vegetative,13,13
+SRR5140225,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5140226,Euphorbiaceae,Root,healthy,Below,Vegetative,13,13
+SRR5140227,Euphorbiaceae,Root,healthy,Below,Vegetative,13,13
+SRR5140228,Euphorbiaceae,Root,healthy,Below,Vegetative,13,13
+SRR5140229,Euphorbiaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR5140230,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5140231,Euphorbiaceae,Root,healthy,Below,Vegetative,13,13
+SRR5140232,Euphorbiaceae,Root,healthy,Below,Vegetative,13,13
+SRR5140233,Euphorbiaceae,Root,healthy,Below,Vegetative,13,7
+SRR5140234,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5140235,Euphorbiaceae,Leaf,other,Above,Vegetative,7,7
+SRR5140236,Euphorbiaceae,Leaf,other,Above,Vegetative,7,7
+SRR5140237,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5140238,Euphorbiaceae,Leaf,other,Above,Vegetative,7,7
+SRR5140239,Euphorbiaceae,Leaf,other,Above,Vegetative,7,7
+SRR5140240,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR5140241,Euphorbiaceae,Leaf,other,Above,Vegetative,7,16
+SRR5140242,Euphorbiaceae,Leaf,other,Above,Vegetative,7,7
+SRR5140243,Euphorbiaceae,Root,other,Below,Vegetative,13,13
+SRR5140244,Euphorbiaceae,Root,other,Below,Vegetative,13,13
+SRR5140245,Euphorbiaceae,Root,other,Below,Vegetative,13,13
+SRR13313987,Euphorbiaceae,Leaf,other,Above,Vegetative,7,16
+SRR13313988,Euphorbiaceae,Leaf,other,Above,Vegetative,7,16
+SRR13313989,Euphorbiaceae,Leaf,other,Above,Vegetative,7,16
+SRR13313990,Euphorbiaceae,Leaf,biotic,Above,Vegetative,7,16
+SRR13313991,Euphorbiaceae,Leaf,biotic,Above,Vegetative,7,16
+SRR13313992,Euphorbiaceae,Leaf,biotic,Above,Vegetative,7,18
+SRR13313993,Euphorbiaceae,Leaf,biotic,Above,Vegetative,7,18
+SRR13313994,Euphorbiaceae,Leaf,biotic,Above,Vegetative,7,16
+SRR13313995,Euphorbiaceae,Leaf,biotic,Above,Vegetative,7,16
+SRR1594297,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594324,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR1594342,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR1594298,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,3
+SRR1594325,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR1594343,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR1594299,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594326,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594344,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594300,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594327,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594345,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594301,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594328,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594346,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594302,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594329,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594347,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594303,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594330,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594348,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594304,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594331,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594349,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594305,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594332,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594350,Euphorbiaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1594306,Euphorbiaceae,Leaf,light,Above,Vegetative,7,18
+SRR1594315,Euphorbiaceae,Leaf,light,Above,Vegetative,7,18
+SRR1594333,Euphorbiaceae,Leaf,light,Above,Vegetative,7,8
+SRR1594307,Euphorbiaceae,Leaf,light,Above,Vegetative,7,16
+SRR1594316,Euphorbiaceae,Leaf,light,Above,Vegetative,7,18
+SRR1594334,Euphorbiaceae,Leaf,light,Above,Vegetative,7,18
+SRR1594308,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594317,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594335,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594309,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594318,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594336,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594310,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594319,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594337,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594311,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594320,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594338,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594312,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594321,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594339,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594313,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594322,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594340,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594314,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594323,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR1594341,Euphorbiaceae,Leaf,light,Above,Vegetative,7,7
+SRR350520,Fabaceae,Root,healthy,Below,Vegetative,13,13
+SRR350519,Fabaceae,Flower,healthy,Above,Reproductive,3,3
+SRR349692,Fabaceae,Flower,healthy,Above,Reproductive,3,16
+SRR350538,Fabaceae,Flower,healthy,Above,Reproductive,3,16
+SRR350518,Fabaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR350521,Fabaceae,Seed,healthy,WholePlant,Reproductive,15,16
+SRR350517,Fabaceae,Root,healthy,Below,Vegetative,13,13
+SRR299098,Solanaceae,Leaf,other,Above,Vegetative,7,7
+SRR6471192,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6471191,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6471184,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6471190,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6471189,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6471187,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6471188,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6471186,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6471185,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6471183,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6471181,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6471180,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6471182,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6471179,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6471178,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR5205593,Solanaceae,Leaf,cold,Above,Vegetative,7,16
+SRR5205592,Solanaceae,Leaf,cold,Above,Vegetative,7,16
+SRR5205591,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5205590,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5205597,Solanaceae,Leaf,cold,Above,Vegetative,7,16
+SRR5205596,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR5205595,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5205594,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR955772,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR955773,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR955774,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR955776,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR955777,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR955778,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR955761,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR955762,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR955763,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR955765,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR955766,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR955767,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR1199063,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR1199066,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR1199068,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR1199069,Solanaceae,Flower,healthy,Above,Reproductive,3,5
+SRR1199070,Solanaceae,Flower,healthy,Above,Reproductive,3,16
+SRR1199071,Solanaceae,Flower,healthy,Above,Reproductive,3,5
+SRR1199072,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1199073,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1199074,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1199121,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR1199122,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR1199123,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR1199124,Solanaceae,Flower,healthy,Above,Reproductive,3,19
+SRR1199125,Solanaceae,Flower,healthy,Above,Reproductive,3,7
+SRR1199127,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1199128,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1199129,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1199130,Solanaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR1199132,Solanaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR1199135,Solanaceae,Shoot,healthy,Above,Vegetative,18,18
+SRR1199197,Solanaceae,Flower,healthy,Above,Reproductive,3,19
+SRR1199198,Solanaceae,Flower,healthy,Above,Reproductive,3,19
+SRR1199199,Solanaceae,Flower,healthy,Above,Reproductive,3,19
+SRR1199200,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1199202,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1199203,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR4473639,Oleaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR4473641,Oleaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR4473642,Oleaceae,Shoot,healthy,Above,Vegetative,18,6
+SRR4473643,Oleaceae,Shoot,healthy,Above,Vegetative,18,10
+SRR4473644,Oleaceae,Leaf,healthy,Above,Vegetative,7,13
+SRR4473645,Oleaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR4473646,Oleaceae,Shoot,healthy,Above,Vegetative,18,18
+ERR266227,Poaceae,Leaf,salt,Above,Vegetative,7,7
+ERR266224,Poaceae,Leaf,salt,Above,Vegetative,7,7
+ERR266221,Poaceae,Leaf,salt,Above,Vegetative,7,16
+ERR266222,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR266225,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR266234,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR266232,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR266238,Poaceae,Leaf,salt,Above,Vegetative,7,16
+ERR266226,Poaceae,Leaf,salt,Above,Vegetative,7,16
+ERR266231,Poaceae,Leaf,salt,Above,Vegetative,7,7
+ERR266233,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR266230,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR266237,Poaceae,Leaf,salt,Above,Vegetative,7,7
+ERR266236,Poaceae,Leaf,salt,Above,Vegetative,7,7
+ERR266235,Poaceae,Leaf,salt,Above,Vegetative,7,7
+ERR348354,Poaceae,Other,healthy,Other,Other,8,8
+ERR348358,Poaceae,Other,healthy,Other,Other,8,8
+ERR348361,Poaceae,Other,healthy,Other,Other,8,7
+ERR348348,Poaceae,Other,healthy,Other,Other,8,7
+ERR348362,Poaceae,Other,healthy,Other,Other,8,7
+ERR348375,Poaceae,Other,healthy,Other,Other,8,7
+ERR348351,Poaceae,Other,healthy,Other,Other,8,7
+ERR348368,Poaceae,Other,healthy,Other,Other,8,7
+ERR348371,Poaceae,Other,healthy,Other,Other,8,7
+ERR348374,Poaceae,Other,healthy,Other,Other,8,7
+ERR348376,Poaceae,Other,healthy,Other,Other,8,7
+ERR348347,Poaceae,Other,healthy,Other,Other,8,7
+ERR348349,Poaceae,Other,healthy,Other,Other,8,7
+ERR348367,Poaceae,Other,healthy,Other,Other,8,7
+ERR348359,Poaceae,Other,salt,Other,Other,8,8
+ERR348360,Poaceae,Other,salt,Other,Other,8,7
+ERR348363,Poaceae,Other,salt,Other,Other,8,8
+ERR348352,Poaceae,Other,salt,Other,Other,8,7
+ERR348370,Poaceae,Other,salt,Other,Other,8,7
+ERR348372,Poaceae,Other,salt,Other,Other,8,7
+ERR348350,Poaceae,Other,salt,Other,Other,8,7
+ERR348356,Poaceae,Other,salt,Other,Other,8,7
+ERR348357,Poaceae,Other,salt,Other,Other,8,7
+ERR348364,Poaceae,Other,salt,Other,Other,8,7
+ERR348365,Poaceae,Other,salt,Other,Other,8,7
+ERR348373,Poaceae,Other,salt,Other,Other,8,7
+ERR348353,Poaceae,Other,salt,Other,Other,8,7
+ERR348366,Poaceae,Other,salt,Other,Other,8,7
+ERR348369,Poaceae,Other,salt,Other,Other,8,7
+ERR2061590,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR2061591,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR2061592,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR2061593,Poaceae,Leaf,cold,Above,Vegetative,7,7
+ERR2061594,Poaceae,Leaf,cold,Above,Vegetative,7,7
+ERR2061595,Poaceae,Leaf,cold,Above,Vegetative,7,7
+ERR2061596,Poaceae,Leaf,cold,Above,Vegetative,7,7
+ERR2061597,Poaceae,Leaf,cold,Above,Vegetative,7,7
+ERR2061598,Poaceae,Leaf,cold,Above,Vegetative,7,7
+ERR2061599,Poaceae,Leaf,salt,Above,Vegetative,7,7
+ERR2061600,Poaceae,Leaf,salt,Above,Vegetative,7,7
+ERR2061601,Poaceae,Leaf,salt,Above,Vegetative,7,7
+ERR2061602,Poaceae,Leaf,cold,Above,Vegetative,7,7
+ERR2061603,Poaceae,Leaf,cold,Above,Vegetative,7,7
+ERR2061604,Poaceae,Leaf,cold,Above,Vegetative,7,7
+ERR2061605,Poaceae,Leaf,cold,Above,Vegetative,7,7
+ERR2061606,Poaceae,Leaf,cold,Above,Vegetative,7,7
+ERR2061607,Poaceae,Leaf,cold,Above,Vegetative,7,7
+SRR10737336,Poaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR10737344,Poaceae,Leaf,healthy,Above,Vegetative,7,18
+SRR10737345,Poaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR9888054,Poaceae,Leaf,nitrogen,Above,Vegetative,7,13
+SRR9888055,Poaceae,Leaf,nitrogen,Above,Vegetative,7,13
+SRR10737340,Poaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR10737341,Poaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR10737342,Poaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR10737337,Poaceae,Leaf,salt,Above,Vegetative,7,16
+SRR10737338,Poaceae,Leaf,salt,Above,Vegetative,7,16
+SRR10737339,Poaceae,Leaf,salt,Above,Vegetative,7,16
+SRR10737343,Poaceae,Leaf,salt,Above,Vegetative,7,8
+SRR10737346,Poaceae,Leaf,salt,Above,Vegetative,7,18
+SRR10737347,Poaceae,Leaf,salt,Above,Vegetative,7,18
+SRR1166453,Rosaceae,Seed,healthy,WholePlant,Reproductive,15,13
+SRR1166454,Rosaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR4089437,Rosaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR4089438,Rosaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR4089439,Rosaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR4089440,Rosaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR4089441,Rosaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR4089442,Rosaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR4089443,Rosaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR4089444,Rosaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR8644912,Solanaceae,Flower,healthy,Above,Reproductive,3,8
+SRR8644915,Solanaceae,Flower,healthy,Above,Reproductive,3,8
+SRR8644914,Solanaceae,Flower,healthy,Above,Reproductive,3,3
+SRR8644907,Solanaceae,Flower,healthy,Above,Reproductive,3,8
+SRR8644906,Solanaceae,Flower,healthy,Above,Reproductive,3,8
+SRR8644905,Solanaceae,Flower,healthy,Above,Reproductive,3,18
+SRR8644904,Solanaceae,Flower,healthy,Above,Reproductive,3,8
+SRR8644911,Solanaceae,Flower,healthy,Above,Reproductive,3,18
+SRR8644910,Solanaceae,Flower,healthy,Above,Reproductive,3,18
+SRR8644909,Solanaceae,Flower,healthy,Above,Reproductive,3,18
+SRR8644908,Solanaceae,Flower,healthy,Above,Reproductive,3,3
+SRR8644913,Solanaceae,Flower,healthy,Above,Reproductive,3,12
+DRR126329,Solanaceae,Shoot,healthy,Above,Vegetative,18,22
+DRR126328,Solanaceae,Shoot,healthy,Above,Vegetative,18,16
+DRR126327,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR4309579,Rosaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR4309580,Rosaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR4309581,Rosaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR4309582,Rosaceae,Reproductive- Other,cold,Above,Reproductive,12,15
+SRR4309583,Rosaceae,Reproductive- Other,cold,Above,Reproductive,12,15
+SRR4309584,Rosaceae,Reproductive- Other,cold,Above,Reproductive,12,15
+SRR4309585,Rosaceae,Reproductive- Other,cold,Above,Reproductive,12,15
+SRR4309586,Rosaceae,Reproductive- Other,cold,Above,Reproductive,12,15
+SRR4309587,Rosaceae,Reproductive- Other,cold,Above,Reproductive,12,15
+SRR2976058,Rosaceae,Flower,healthy,Above,Reproductive,3,0
+SRR2976060,Rosaceae,Flower,healthy,Above,Reproductive,3,13
+SRR2976061,Rosaceae,Flower,cold,Above,Reproductive,3,19
+SRR2976062,Rosaceae,Flower,cold,Above,Reproductive,3,18
+SRR12328727,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR12328726,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR6327851,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR6327852,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR6327854,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR6327853,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR6327855,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR6327856,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR6327857,Poaceae,Root,drought,Below,Vegetative,13,13
+SRR6327858,Poaceae,Root,drought,Below,Vegetative,13,13
+SRR6327860,Poaceae,Root,drought,Below,Vegetative,13,13
+SRR6327859,Poaceae,Root,drought,Below,Vegetative,13,13
+SRR6327861,Poaceae,Root,drought,Below,Vegetative,13,13
+SRR6327862,Poaceae,Root,drought,Below,Vegetative,13,13
+SRR5631955,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631956,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631981,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631982,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631985,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631986,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631957,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631958,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631959,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631960,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631967,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631968,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631969,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631970,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631975,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631976,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631961,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631962,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631963,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631964,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631965,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631966,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631979,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631980,Rosaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR5631971,Rosaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5631972,Rosaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5631973,Rosaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5631974,Rosaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5631977,Rosaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5631978,Rosaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5631983,Rosaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5631984,Rosaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642213,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642217,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642271,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642214,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642218,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642290,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642215,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642221,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642248,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642216,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642222,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642260,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642219,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642226,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642293,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642220,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642237,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642331,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642223,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642231,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642238,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642225,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642232,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642239,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642227,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642233,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642240,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642228,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642234,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642241,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642229,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642235,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642242,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642230,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642236,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642243,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642244,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642252,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642258,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642245,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642253,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642259,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642246,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642254,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642261,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642247,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642255,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642262,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642249,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642256,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642263,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642251,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642257,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642264,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3642265,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642272,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642286,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642266,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642280,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642287,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642267,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642281,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642288,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642268,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642282,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642289,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642269,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642283,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642291,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642270,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642285,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR3642292,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR1569274,Fabaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR1569385,Fabaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1569475,Fabaceae,Root,healthy,Below,Vegetative,13,13
+SRR1569477,Fabaceae,Root,healthy,Below,Vegetative,13,13
+SRR1569463,Fabaceae,Shoot,healthy,Above,Vegetative,18,18
+SRR1569471,Fabaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR1569472,Fabaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR1569473,Fabaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR1569465,Fabaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR1569467,Fabaceae,Reproductive- Other,healthy,Above,Reproductive,12,18
+SRR1569468,Fabaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR1569469,Fabaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR10744003,Rosaceae,Leaf,heat,Above,Vegetative,7,7
+SRR10744004,Rosaceae,Leaf,heat,Above,Vegetative,7,7
+SRR10744005,Rosaceae,Leaf,heat,Above,Vegetative,7,7
+SRR10744006,Rosaceae,Leaf,heat,Above,Vegetative,7,7
+SRR10744007,Rosaceae,Leaf,heat,Above,Vegetative,7,7
+SRR10744008,Rosaceae,Leaf,heat,Above,Vegetative,7,7
+SRR10744009,Rosaceae,Leaf,heat,Above,Vegetative,7,7
+SRR10744010,Rosaceae,Leaf,heat,Above,Vegetative,7,7
+SRR10744011,Rosaceae,Leaf,heat,Above,Vegetative,7,7
+SRR10744012,Rosaceae,Leaf,heat,Above,Vegetative,7,7
+SRR10744013,Rosaceae,Leaf,heat,Above,Vegetative,7,7
+SRR7510230,Rosaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR7510231,Rosaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR7510232,Rosaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR7510233,Rosaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR7510234,Rosaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR7510235,Rosaceae,Seed,healthy,WholePlant,Reproductive,15,15
+SRR7510238,Rosaceae,Other,healthy,Other,Other,8,13
+SRR7510239,Rosaceae,Other,healthy,Other,Other,8,13
+SRR7510242,Rosaceae,Other,healthy,Other,Other,8,13
+SRR7510243,Rosaceae,Other,healthy,Other,Other,8,13
+SRR7510244,Rosaceae,Other,healthy,Other,Other,8,13
+SRR7510245,Rosaceae,Other,healthy,Other,Other,8,13
+SRR8640174,Solanaceae,Flower,healthy,Above,Reproductive,3,0
+SRR8640173,Solanaceae,Flower,healthy,Above,Reproductive,3,8
+SRR8640172,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR8640171,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR8640170,Solanaceae,Root,healthy,Below,Vegetative,13,7
+SRR8640169,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8640119,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8640117,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8640116,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8640108,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR2229192,Solanaceae,Other,healthy,Other,Other,8,16
+SRR6431645,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR9735386,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR9735388,Poaceae,Leaf,drought,Above,Vegetative,7,16
+SRR9735387,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR9735393,Poaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR9735394,Poaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR9735389,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR9735391,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR9735392,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR9735390,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR9735395,Poaceae,Leaf,drought,Above,Vegetative,7,16
+SRR9735396,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR959765,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+SRR959766,Poaceae,Shoot,healthy,Above,Vegetative,18,13
+SRR959767,Poaceae,Shoot,healthy,Above,Vegetative,18,13
+SRR959768,Poaceae,Flower,healthy,Above,Reproductive,3,19
+SRR959769,Poaceae,Flower,healthy,Above,Reproductive,3,19
+SRR959770,Poaceae,Flower,healthy,Above,Reproductive,3,19
+SRR959771,Poaceae,Flower,healthy,Above,Reproductive,3,19
+SRR959773,Poaceae,Shoot,healthy,Above,Vegetative,18,18
+SRR959772,Poaceae,Shoot,healthy,Above,Vegetative,18,13
+SRR959782,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR959783,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR959784,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR959785,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR959786,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR959796,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,8
+SRR959797,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+SRR959798,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+ERR2096903,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+ERR2096904,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+ERR2096905,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+ERR2096906,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+ERR2096907,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+ERR2096959,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,18
+ERR2096960,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+ERR2096961,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,18
+ERR2096962,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+ERR2096958,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+ERR2097014,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+ERR2097015,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+ERR2097016,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+ERR2097017,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+ERR2097013,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+ERR2096908,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR2096909,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR2096910,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR2096911,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR2096912,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR2096913,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR2096914,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR2096915,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR2096916,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR2096917,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR2096918,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR2096919,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR2096920,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR2096921,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR2096922,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR2096923,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR2096924,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR2096925,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR2096926,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR2096927,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR2096928,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR2096929,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR2096930,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR2096931,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR2096932,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR2096933,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR2096934,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR2096935,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR2096936,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR2096937,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR2096938,Poaceae,Reproductive- Other,healthy,Above,Reproductive,12,20
+ERR2096939,Poaceae,Reproductive- Other,healthy,Above,Reproductive,12,20
+ERR2096940,Poaceae,Reproductive- Other,healthy,Above,Reproductive,12,20
+ERR2096941,Poaceae,Reproductive- Other,healthy,Above,Reproductive,12,20
+ERR2096942,Poaceae,Reproductive- Other,healthy,Above,Reproductive,12,20
+ERR2096943,Poaceae,Reproductive- Other,healthy,Above,Reproductive,12,20
+ERR2096944,Poaceae,Reproductive- Other,healthy,Above,Reproductive,12,20
+ERR2096945,Poaceae,Reproductive- Other,healthy,Above,Reproductive,12,20
+ERR2096946,Poaceae,Reproductive- Other,healthy,Above,Reproductive,12,20
+ERR2096947,Poaceae,Reproductive- Other,healthy,Above,Reproductive,12,20
+ERR2096948,Poaceae,Reproductive- Other,healthy,Above,Reproductive,12,20
+ERR2096949,Poaceae,Reproductive- Other,healthy,Above,Reproductive,12,20
+ERR2096950,Poaceae,Reproductive- Other,healthy,Above,Reproductive,12,20
+ERR2096951,Poaceae,Reproductive- Other,healthy,Above,Reproductive,12,20
+ERR2096952,Poaceae,Reproductive- Other,healthy,Above,Reproductive,12,20
+ERR2096953,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096954,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096955,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096956,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096957,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096963,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096964,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096965,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096966,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096967,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096968,Poaceae,Flower,healthy,Above,Reproductive,3,8
+ERR2096969,Poaceae,Flower,healthy,Above,Reproductive,3,8
+ERR2096970,Poaceae,Flower,healthy,Above,Reproductive,3,8
+ERR2096971,Poaceae,Flower,healthy,Above,Reproductive,3,8
+ERR2096972,Poaceae,Flower,healthy,Above,Reproductive,3,8
+ERR2096988,Poaceae,Flower,healthy,Above,Reproductive,3,0
+ERR2096989,Poaceae,Flower,healthy,Above,Reproductive,3,0
+ERR2096990,Poaceae,Flower,healthy,Above,Reproductive,3,0
+ERR2096991,Poaceae,Flower,healthy,Above,Reproductive,3,0
+ERR2096992,Poaceae,Flower,healthy,Above,Reproductive,3,0
+ERR2096993,Poaceae,Flower,healthy,Above,Reproductive,3,0
+ERR2096994,Poaceae,Flower,healthy,Above,Reproductive,3,0
+ERR2096995,Poaceae,Flower,healthy,Above,Reproductive,3,0
+ERR2096996,Poaceae,Flower,healthy,Above,Reproductive,3,0
+ERR2096997,Poaceae,Flower,healthy,Above,Reproductive,3,0
+ERR2096998,Poaceae,Flower,healthy,Above,Reproductive,3,0
+ERR2096999,Poaceae,Flower,healthy,Above,Reproductive,3,0
+ERR2097000,Poaceae,Flower,healthy,Above,Reproductive,3,0
+ERR2097001,Poaceae,Flower,healthy,Above,Reproductive,3,0
+ERR2097002,Poaceae,Flower,healthy,Above,Reproductive,3,0
+ERR2097003,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2097004,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2097005,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2097006,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2097007,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2097008,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2097009,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2097010,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2097011,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2097012,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2097018,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2097019,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2097020,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2097021,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2097022,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096973,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096974,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096975,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096976,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096977,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096978,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096979,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096980,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096981,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096982,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096983,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096984,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096985,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096986,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2096987,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR2097023,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR2097024,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR2097025,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR2097026,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR2097027,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR2097028,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR2097029,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR2097030,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR2097031,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR2097032,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR2097033,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR2097034,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR2097035,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR2097036,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR2097037,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR2097039,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,18
+ERR2097040,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,18
+ERR2097041,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,18
+ERR2097042,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,18
+ERR2097043,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+ERR2097044,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+ERR2097045,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+ERR2097046,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+ERR2097047,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+ERR2097048,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+ERR2097049,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+ERR2097050,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,18
+ERR2097051,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,18
+ERR2097052,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,18
+ERR2097038,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,18
+ERR2097053,Poaceae,Seed,healthy,WholePlant,Reproductive,15,4
+ERR2097054,Poaceae,Seed,healthy,WholePlant,Reproductive,15,4
+ERR2097055,Poaceae,Seed,healthy,WholePlant,Reproductive,15,4
+ERR2097056,Poaceae,Seed,healthy,WholePlant,Reproductive,15,4
+ERR2097057,Poaceae,Seed,healthy,WholePlant,Reproductive,15,4
+ERR2097058,Poaceae,Seed,healthy,WholePlant,Reproductive,15,4
+ERR2097059,Poaceae,Seed,healthy,WholePlant,Reproductive,15,4
+ERR2097060,Poaceae,Seed,healthy,WholePlant,Reproductive,15,4
+ERR2097061,Poaceae,Seed,healthy,WholePlant,Reproductive,15,4
+ERR2097062,Poaceae,Seed,healthy,WholePlant,Reproductive,15,4
+ERR2097063,Poaceae,Seed,healthy,WholePlant,Reproductive,15,4
+ERR2097064,Poaceae,Seed,healthy,WholePlant,Reproductive,15,4
+ERR2097065,Poaceae,Seed,healthy,WholePlant,Reproductive,15,4
+ERR2097066,Poaceae,Seed,healthy,WholePlant,Reproductive,15,4
+ERR2097067,Poaceae,Seed,healthy,WholePlant,Reproductive,15,4
+SRR786524,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR786525,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR786540,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR786541,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR786542,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR786508,Solanaceae,Seed,healthy,WholePlant,Reproductive,15,16
+SRR786509,Solanaceae,Seed,healthy,WholePlant,Reproductive,15,16
+SRR786507,Solanaceae,Seed,healthy,WholePlant,Reproductive,15,16
+SRR786547,Solanaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR786548,Solanaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR786526,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR786527,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR786543,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR786544,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR786535,Solanaceae,Flower,healthy,Above,Reproductive,3,18
+SRR786536,Solanaceae,Flower,healthy,Above,Reproductive,3,18
+SRR786537,Solanaceae,Flower,healthy,Above,Reproductive,3,18
+SRR786522,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR786523,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,3
+SRR786538,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR786539,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR7652563,Solanaceae,Leaf,drought,Above,Vegetative,7,7
+SRR7652568,Solanaceae,Leaf,drought,Above,Vegetative,7,7
+SRR7652569,Solanaceae,Leaf,drought,Above,Vegetative,7,7
+SRR7652564,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR7652570,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR7652571,Solanaceae,Leaf,cold,Above,Vegetative,7,7
+SRR8736644,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8736653,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8736652,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8736633,Solanaceae,Leaf,healthy,Above,Vegetative,7,12
+SRR8736631,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8736630,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8736627,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8736626,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8736636,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8736637,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8736632,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8736635,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8736634,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8736629,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR8736628,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3884597,Solanaceae,Shoot,healthy,Above,Vegetative,18,18
+SRR3884608,Solanaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR3884620,Solanaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR3884631,Solanaceae,Shoot,healthy,Above,Vegetative,18,13
+SRR3884642,Solanaceae,Root,healthy,Below,Vegetative,13,13
+SRR3884653,Solanaceae,Leaf,healthy,Above,Vegetative,7,13
+SRR3884664,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR3884677,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,16
+SRR3884678,Solanaceae,Flower,healthy,Above,Reproductive,3,7
+SRR3884679,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR3884680,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR3884681,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR3884682,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR3884684,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR3884685,Solanaceae,Flower,healthy,Above,Reproductive,3,13
+SRR3884689,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR3884686,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,3
+SRR3884687,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR3884690,Solanaceae,Root,biotic,Below,Vegetative,13,13
+SRR1104129,Solanaceae,Other,healthy,Other,Other,8,7
+SRR5650714,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR5651526,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR5658205,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR5658226,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,18
+SRR12198798,Solanaceae,Leaf,heat,Above,Vegetative,7,7
+SRR12198797,Solanaceae,Leaf,heat,Above,Vegetative,7,7
+SRR12198796,Solanaceae,Leaf,heat,Above,Vegetative,7,7
+SRR6431642,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6431643,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR7444634,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR7444640,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR7444641,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR7444642,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR7444643,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR7444655,Solanaceae,Leaf,salt,Above,Vegetative,7,7
+SRR7444635,Solanaceae,Leaf,salt,Above,Vegetative,7,16
+SRR7444636,Solanaceae,Leaf,salt,Above,Vegetative,7,16
+SRR7444637,Solanaceae,Leaf,salt,Above,Vegetative,7,16
+SRR7444654,Solanaceae,Leaf,salt,Above,Vegetative,7,16
+SRR7444656,Solanaceae,Leaf,salt,Above,Vegetative,7,16
+SRR7444657,Solanaceae,Leaf,salt,Above,Vegetative,7,16
+SRR7444644,Solanaceae,Root,salt,Below,Vegetative,13,13
+SRR7444645,Solanaceae,Root,salt,Below,Vegetative,13,13
+SRR7444646,Solanaceae,Root,salt,Below,Vegetative,13,13
+SRR7444650,Solanaceae,Root,salt,Below,Vegetative,13,13
+SRR7444651,Solanaceae,Root,salt,Below,Vegetative,13,13
+SRR7444652,Solanaceae,Root,salt,Below,Vegetative,13,13
+SRR7444647,Solanaceae,Root,salt,Below,Vegetative,13,13
+SRR7444648,Solanaceae,Root,salt,Below,Vegetative,13,13
+SRR7444649,Solanaceae,Root,salt,Below,Vegetative,13,13
+SRR7444638,Solanaceae,Root,salt,Below,Vegetative,13,13
+SRR7444639,Solanaceae,Root,salt,Below,Vegetative,13,13
+SRR7444653,Solanaceae,Root,salt,Below,Vegetative,13,13
+SRR122108,Solanaceae,Shoot,healthy,Above,Vegetative,18,13
+SRR124130,Solanaceae,Shoot,healthy,Above,Vegetative,18,13
+SRR122109,Solanaceae,Other,healthy,Other,Other,8,13
+SRR122114,Solanaceae,Other,healthy,Other,Other,8,13
+SRR122136,Solanaceae,Other,healthy,Other,Other,8,13
+SRR122110,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR122111,Solanaceae,Flower,healthy,Above,Reproductive,3,7
+SRR122112,Solanaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+SRR122133,Solanaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+SRR122113,Solanaceae,Other,healthy,Other,Other,8,13
+SRR122123,Solanaceae,Other,healthy,Other,Other,8,13
+SRR122115,Solanaceae,Seedling,heat,WholePlant,WholePlant,16,16
+SRR122116,Solanaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR122117,Solanaceae,Seedling,other,WholePlant,WholePlant,16,16
+SRR122118,Solanaceae,Root,healthy,Below,Vegetative,13,16
+SRR122122,Solanaceae,Root,healthy,Below,Vegetative,13,16
+SRR122119,Solanaceae,Seedling,other,WholePlant,WholePlant,16,7
+SRR122120,Solanaceae,Seedling,salt,WholePlant,WholePlant,16,16
+SRR122121,Solanaceae,Flower,healthy,Above,Reproductive,3,16
+SRR122124,Solanaceae,Flower,healthy,Above,Reproductive,3,16
+SRR124131,Solanaceae,Flower,healthy,Above,Reproductive,3,16
+SRR122125,Solanaceae,Leaf,biotic,Above,Vegetative,7,7
+SRR122126,Solanaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+SRR122127,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR122128,Solanaceae,Seedling,other,WholePlant,WholePlant,16,16
+SRR122129,Solanaceae,Leaf,other,Above,Vegetative,7,7
+SRR122134,Solanaceae,Leaf,other,Above,Vegetative,7,7
+SRR122130,Solanaceae,Shoot,healthy,Above,Vegetative,18,7
+SRR122139,Solanaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR122131,Solanaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+SRR122132,Solanaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR122135,Solanaceae,Leaf,biotic,Above,Vegetative,7,18
+SRR122137,Solanaceae,Flower,healthy,Above,Reproductive,3,18
+SRR122138,Solanaceae,Seedling,other,WholePlant,WholePlant,16,7
+SRR122140,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR124121,Solanaceae,Seedling,other,WholePlant,WholePlant,16,7
+SRR124126,Solanaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR124127,Solanaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR124132,Solanaceae,Flower,healthy,Above,Reproductive,3,16
+SRR124138,Solanaceae,Leaf,other,Above,Vegetative,7,7
+DRR003148,Poaceae,Root,healthy,Below,Vegetative,13,13
+DRR003149,Poaceae,Root,healthy,Below,Vegetative,13,13
+DRR003150,Poaceae,Root,healthy,Below,Vegetative,13,13
+DRR003151,Poaceae,Root,phosphorus,Below,Vegetative,13,13
+DRR003153,Poaceae,Root,phosphorus,Below,Vegetative,13,13
+DRR003154,Poaceae,Root,phosphorus,Below,Vegetative,13,7
+DRR003152,Poaceae,Shoot,phosphorus,Above,Vegetative,18,13
+DRR003158,Poaceae,Shoot,phosphorus,Above,Vegetative,18,16
+DRR003159,Poaceae,Shoot,phosphorus,Above,Vegetative,18,16
+DRR003155,Poaceae,Shoot,healthy,Above,Vegetative,18,7
+DRR003156,Poaceae,Shoot,healthy,Above,Vegetative,18,7
+DRR003157,Poaceae,Shoot,healthy,Above,Vegetative,18,16
+ERR3668573,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+ERR3668574,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR3668575,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR3668576,Poaceae,Seed,heat,WholePlant,Reproductive,15,15
+ERR3668577,Poaceae,Seed,heat,WholePlant,Reproductive,15,15
+ERR3668578,Poaceae,Seed,heat,WholePlant,Reproductive,15,15
+ERR3668579,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+ERR3668580,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+ERR3668581,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+ERR3668582,Poaceae,Seed,heat,WholePlant,Reproductive,15,15
+ERR3668583,Poaceae,Seed,heat,WholePlant,Reproductive,15,15
+ERR3668584,Poaceae,Seed,heat,WholePlant,Reproductive,15,15
+ERR3668585,Poaceae,Seed,healthy,WholePlant,Reproductive,15,18
+ERR3668586,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+ERR3814222,Poaceae,Flower,healthy,Above,Reproductive,3,19
+ERR3814223,Poaceae,Flower,healthy,Above,Reproductive,3,19
+ERR3814224,Poaceae,Flower,healthy,Above,Reproductive,3,19
+ERR3814225,Poaceae,Flower,healthy,Above,Reproductive,3,8
+ERR3814226,Poaceae,Flower,healthy,Above,Reproductive,3,8
+ERR3814227,Poaceae,Flower,healthy,Above,Reproductive,3,13
+ERR392055,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392057,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392061,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392072,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392056,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392058,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392070,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392077,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392059,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+ERR392078,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+ERR392080,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392081,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392082,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+ERR392084,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+ERR392060,Poaceae,Seed,healthy,WholePlant,Reproductive,15,15
+ERR392067,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392069,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392071,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392062,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392065,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392066,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392079,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392063,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392074,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392075,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392076,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392064,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392068,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392073,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR392083,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+SRR1542404,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1542405,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1542406,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR1542407,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR1542408,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR1542409,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR1542410,Poaceae,Leaf,heat,Above,Vegetative,7,7
+SRR1542411,Poaceae,Leaf,heat,Above,Vegetative,7,7
+SRR1542412,Poaceae,Leaf,heat,Above,Vegetative,7,7
+SRR1542413,Poaceae,Leaf,heat,Above,Vegetative,7,7
+SRR1542414,Poaceae,Leaf,other,Above,Vegetative,7,7
+SRR1542415,Poaceae,Leaf,other,Above,Vegetative,7,7
+SRR1542416,Poaceae,Leaf,other,Above,Vegetative,7,7
+SRR1542417,Poaceae,Leaf,other,Above,Vegetative,7,7
+SRR6802606,Poaceae,Flower,healthy,Above,Reproductive,3,13
+SRR6802612,Poaceae,Flower,healthy,Above,Reproductive,3,13
+SRR6802607,Poaceae,Flower,healthy,Above,Reproductive,3,13
+SRR6802613,Poaceae,Flower,healthy,Above,Reproductive,3,13
+SRR6802608,Poaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR6802615,Poaceae,Shoot,healthy,Above,Vegetative,18,16
+SRR6802609,Poaceae,Flower,healthy,Above,Reproductive,3,13
+SRR6802610,Poaceae,Flower,healthy,Above,Reproductive,3,13
+SRR6802611,Poaceae,Flower,healthy,Above,Reproductive,3,7
+SRR6802614,Poaceae,Flower,healthy,Above,Reproductive,3,7
+SRR7755529,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR7755530,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR7755531,Poaceae,Root,salt,Below,Vegetative,13,13
+SRR7755532,Poaceae,Root,salt,Below,Vegetative,13,13
+SRR3735179,Fabaceae,Seed,healthy,WholePlant,Reproductive,15,13
+SRR3735193,Fabaceae,Seed,healthy,WholePlant,Reproductive,15,13
+SRR3735547,Fabaceae,Seed,healthy,WholePlant,Reproductive,15,13
+SRR3735572,Fabaceae,Seed,healthy,WholePlant,Reproductive,15,13
+SRR3735589,Fabaceae,Seed,drought,WholePlant,Reproductive,15,13
+SRR3735674,Fabaceae,Seed,drought,WholePlant,Reproductive,15,15
+SRR3735739,Fabaceae,Seed,drought,WholePlant,Reproductive,15,16
+SRR3735764,Fabaceae,Seed,drought,WholePlant,Reproductive,15,16
+SRR4425615,Vitaceae,Reproductive- Other,drought,Above,Reproductive,12,15
+SRR4425616,Vitaceae,Reproductive- Other,drought,Above,Reproductive,12,15
+SRR4425621,Vitaceae,Reproductive- Other,drought,Above,Reproductive,12,15
+SRR4425617,Vitaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR4425618,Vitaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR4425624,Vitaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR4425619,Vitaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR4425620,Vitaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR4425622,Vitaceae,Reproductive- Other,healthy,Above,Reproductive,12,15
+SRR4425623,Vitaceae,Reproductive- Other,drought,Above,Reproductive,12,15
+SRR4425629,Vitaceae,Reproductive- Other,drought,Above,Reproductive,12,15
+SRR4425630,Vitaceae,Reproductive- Other,drought,Above,Reproductive,12,15
+SRR4425625,Vitaceae,Reproductive- Other,drought,Above,Reproductive,12,13
+SRR4425627,Vitaceae,Reproductive- Other,drought,Above,Reproductive,12,7
+SRR4425628,Vitaceae,Reproductive- Other,drought,Above,Reproductive,12,13
+SRR4425626,Vitaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR4425631,Vitaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR4425632,Vitaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+SRR4425633,Vitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR4425634,Vitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR4425641,Vitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR4425635,Vitaceae,Reproductive- Other,drought,Above,Reproductive,12,7
+SRR4425636,Vitaceae,Reproductive- Other,drought,Above,Reproductive,12,7
+SRR4425640,Vitaceae,Reproductive- Other,drought,Above,Reproductive,12,7
+SRR4425637,Vitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR4425638,Vitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR4425639,Vitaceae,Reproductive- Other,healthy,Above,Reproductive,12,7
+SRR4425642,Vitaceae,Reproductive- Other,drought,Above,Reproductive,12,7
+SRR4425643,Vitaceae,Reproductive- Other,drought,Above,Reproductive,12,7
+SRR4425644,Vitaceae,Reproductive- Other,drought,Above,Reproductive,12,7
+SRR6026698,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026738,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026746,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026697,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026739,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026747,Vitaceae,Leaf,cold,Above,Vegetative,7,16
+SRR6026699,Vitaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6026737,Vitaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6026749,Vitaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6026700,Vitaceae,Leaf,cold,Above,Vegetative,7,16
+SRR6026736,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026748,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026702,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026731,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026742,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026701,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026743,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026751,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026703,Vitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6026741,Vitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6026753,Vitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6026704,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026740,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026752,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR9701099,Vitaceae,Leaf,cold,Above,Vegetative,7,8
+SRR9701100,Vitaceae,Leaf,cold,Above,Vegetative,7,16
+SRR9701103,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR9701104,Vitaceae,Leaf,cold,Above,Vegetative,7,16
+SRR9701097,Vitaceae,Leaf,cold,Above,Vegetative,7,8
+SRR9701098,Vitaceae,Leaf,cold,Above,Vegetative,7,8
+SRR9701095,Vitaceae,Leaf,cold,Above,Vegetative,7,16
+SRR9701096,Vitaceae,Leaf,cold,Above,Vegetative,7,16
+SRR9701101,Vitaceae,Leaf,cold,Above,Vegetative,7,16
+SRR9701102,Vitaceae,Leaf,cold,Above,Vegetative,7,8
+SRR9701109,Vitaceae,Leaf,cold,Above,Vegetative,7,16
+SRR9701110,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6706481,Vitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6706482,Vitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6706484,Vitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8507935,Vitaceae,Leaf,healthy,Above,Vegetative,7,8
+SRR8507936,Vitaceae,Leaf,healthy,Above,Vegetative,7,8
+SRR8507937,Vitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8507938,Vitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR8507941,Vitaceae,Leaf,healthy,Above,Vegetative,7,8
+SRR8507966,Vitaceae,Leaf,healthy,Above,Vegetative,7,8
+SRR8507969,Vitaceae,Leaf,healthy,Above,Vegetative,7,8
+SRR8507970,Vitaceae,Leaf,healthy,Above,Vegetative,7,8
+SRR8507971,Vitaceae,Leaf,healthy,Above,Vegetative,7,8
+SRR8507972,Vitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6706483,Vitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR6706488,Vitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR6706489,Vitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR6706479,Vitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR6706486,Vitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR6706487,Vitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR6706478,Vitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR6706480,Vitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR6706485,Vitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR6026706,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026744,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026754,Vitaceae,Leaf,cold,Above,Vegetative,7,8
+SRR6026705,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026745,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026755,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026707,Vitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6026717,Vitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6026729,Vitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6026708,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026718,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026730,Vitaceae,Leaf,cold,Above,Vegetative,7,16
+SRR8507945,Vitaceae,Leaf,salt,Above,Vegetative,7,7
+SRR8507965,Vitaceae,Leaf,salt,Above,Vegetative,7,8
+SRR8507967,Vitaceae,Leaf,salt,Above,Vegetative,7,8
+SRR8507968,Vitaceae,Leaf,salt,Above,Vegetative,7,8
+SRR8508079,Vitaceae,Leaf,salt,Above,Vegetative,7,8
+SRR8508080,Vitaceae,Leaf,salt,Above,Vegetative,7,7
+SRR8508081,Vitaceae,Leaf,salt,Above,Vegetative,7,7
+SRR6026716,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026728,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026735,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026715,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026727,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026734,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026711,Vitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6026721,Vitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6026725,Vitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6026712,Vitaceae,Leaf,cold,Above,Vegetative,7,16
+SRR6026722,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026726,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026714,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026720,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026724,Vitaceae,Leaf,cold,Above,Vegetative,7,8
+SRR6026713,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026719,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026723,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026709,Vitaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6026732,Vitaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR6026750,Vitaceae,Leaf,healthy,Above,Vegetative,7,16
+SRR6026710,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026733,Vitaceae,Leaf,cold,Above,Vegetative,7,7
+SRR6026756,Vitaceae,Leaf,cold,Above,Vegetative,7,16
+SRR8507939,Vitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR8507940,Vitaceae,Leaf,drought,Above,Vegetative,7,8
+SRR8507942,Vitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR8507944,Vitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR8507974,Vitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR8507975,Vitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR8508082,Vitaceae,Leaf,drought,Above,Vegetative,7,7
+SRR8507962,Vitaceae,Root,healthy,Below,Vegetative,13,13
+SRR8508065,Vitaceae,Root,healthy,Below,Vegetative,13,13
+SRR8508075,Vitaceae,Root,healthy,Below,Vegetative,13,13
+SRR8508076,Vitaceae,Root,healthy,Below,Vegetative,13,13
+SRR8508059,Vitaceae,Root,healthy,Below,Vegetative,13,13
+SRR8508060,Vitaceae,Root,healthy,Below,Vegetative,13,13
+SRR8508061,Vitaceae,Root,healthy,Below,Vegetative,13,13
+SRR8508062,Vitaceae,Root,healthy,Below,Vegetative,13,13
+SRR8508055,Vitaceae,Root,salt,Below,Vegetative,13,13
+SRR8508056,Vitaceae,Root,salt,Below,Vegetative,13,13
+SRR8508057,Vitaceae,Root,salt,Below,Vegetative,13,13
+SRR8508058,Vitaceae,Root,salt,Below,Vegetative,13,13
+SRR8508036,Vitaceae,Root,salt,Below,Vegetative,13,13
+SRR8508039,Vitaceae,Root,salt,Below,Vegetative,13,13
+SRR8508040,Vitaceae,Root,salt,Below,Vegetative,13,13
+SRR8508041,Vitaceae,Root,salt,Below,Vegetative,13,13
+SRR8508042,Vitaceae,Root,salt,Below,Vegetative,13,13
+SRR8507977,Vitaceae,Root,drought,Below,Vegetative,13,13
+SRR8507978,Vitaceae,Root,drought,Below,Vegetative,13,13
+SRR8508074,Vitaceae,Root,drought,Below,Vegetative,13,13
+SRR8508035,Vitaceae,Root,drought,Below,Vegetative,13,13
+SRR8508037,Vitaceae,Root,drought,Below,Vegetative,13,13
+SRR8508038,Vitaceae,Root,drought,Below,Vegetative,13,13
+SRR8508063,Vitaceae,Root,drought,Below,Vegetative,13,13
+SRR8508064,Vitaceae,Root,drought,Below,Vegetative,13,13
+SRR5358804,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5358803,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5358806,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5358805,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5358807,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR5358808,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR5358810,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR5358809,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR5358812,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR5358811,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5358814,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5358813,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR5358816,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR5358815,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR5358818,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR5358817,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR9842062,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842009,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841979,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841910,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842063,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842005,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841980,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841911,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842047,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842015,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841999,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841919,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842048,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842012,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842000,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841920,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842024,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842001,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841995,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841961,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842002,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841996,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841960,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841909,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842069,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842026,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842003,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841924,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842068,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842025,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842004,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841923,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841987,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841983,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841954,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841944,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841953,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841984,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841966,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841943,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842046,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841981,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841930,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841902,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842045,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841982,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841931,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841901,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841900,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842049,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842036,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841958,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841899,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842050,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842035,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841957,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842055,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841913,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841912,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841906,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842056,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841927,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841914,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841905,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842042,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841946,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841928,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841904,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842041,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841945,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841929,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841903,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841988,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841941,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841937,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841908,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841989,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841940,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841936,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841907,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842030,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842018,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842010,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842007,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842029,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842019,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842011,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842008,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842060,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842016,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841977,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841949,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842061,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842017,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841978,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841948,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842067,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842032,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842022,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841990,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842066,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842057,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842031,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842023,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842051,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842044,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842020,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841932,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842052,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842043,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842021,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841933,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842034,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842013,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841985,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841956,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842033,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842014,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841986,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841955,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841897,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842038,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842028,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841968,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842072,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842037,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842027,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841967,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842053,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842040,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841991,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841970,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842054,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842039,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841992,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841969,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841952,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841972,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841963,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841926,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841951,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841971,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841962,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841925,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841898,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842071,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841974,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841935,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842070,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842006,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841973,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841934,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842065,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841965,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841939,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841921,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842064,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841964,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841938,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841922,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841993,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841976,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841915,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841950,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841994,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841975,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841947,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841916,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9842058,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841997,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841959,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9841917,Poaceae,Root,healthy,Below,Vegetative,13,13
+SRR9842059,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841998,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841942,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR9841918,Poaceae,Root,cold,Below,Vegetative,13,13
+SRR12214984,Poaceae,Leaf,heat,Above,Vegetative,7,7
+SRR12214983,Poaceae,Leaf,heat,Above,Vegetative,7,7
+SRR12214972,Poaceae,Leaf,heat,Above,Vegetative,7,7
+SRR12214970,Poaceae,Leaf,cold,Above,Vegetative,7,7
+SRR12214969,Poaceae,Leaf,cold,Above,Vegetative,7,7
+SRR12214968,Poaceae,Leaf,cold,Above,Vegetative,7,7
+SRR12214967,Poaceae,Leaf,heat,Above,Vegetative,7,7
+SRR12214966,Poaceae,Leaf,heat,Above,Vegetative,7,7
+SRR12214965,Poaceae,Leaf,heat,Above,Vegetative,7,7
+SRR12214982,Poaceae,Leaf,cold,Above,Vegetative,7,7
+SRR12214981,Poaceae,Leaf,cold,Above,Vegetative,7,7
+SRR12214964,Poaceae,Leaf,cold,Above,Vegetative,7,7
+SRR12214980,Poaceae,Leaf,heat,Above,Vegetative,7,7
+SRR12214979,Poaceae,Leaf,heat,Above,Vegetative,7,7
+SRR12214978,Poaceae,Leaf,heat,Above,Vegetative,7,7
+SRR12214977,Poaceae,Leaf,cold,Above,Vegetative,7,7
+SRR12214976,Poaceae,Leaf,cold,Above,Vegetative,7,7
+SRR12214975,Poaceae,Leaf,cold,Above,Vegetative,7,7
+SRR12214974,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR12214973,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR12214971,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR1685982,Poaceae,Seedling,heat,WholePlant,WholePlant,16,7
+SRR1819622,Poaceae,Seedling,heat,WholePlant,WholePlant,16,7
+SRR1819624,Poaceae,Seedling,heat,WholePlant,WholePlant,16,7
+SRR1685963,Poaceae,Seedling,cold,WholePlant,WholePlant,16,7
+SRR1819625,Poaceae,Seedling,cold,WholePlant,WholePlant,16,7
+SRR1819627,Poaceae,Seedling,cold,WholePlant,WholePlant,16,7
+SRR1685964,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR1819630,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR1819632,Poaceae,Seedling,salt,WholePlant,WholePlant,16,7
+SRR1663693,Poaceae,Seedling,salt,WholePlant,WholePlant,16,7
+SRR1663694,Poaceae,Seedling,light,WholePlant,WholePlant,16,16
+SRR1238715,Poaceae,Seedling,heat,WholePlant,WholePlant,16,7
+SRR1819196,Poaceae,Seedling,heat,WholePlant,WholePlant,16,7
+SRR1819198,Poaceae,Seedling,heat,WholePlant,WholePlant,16,7
+SRR1238717,Poaceae,Seedling,cold,WholePlant,WholePlant,16,7
+SRR1819204,Poaceae,Seedling,cold,WholePlant,WholePlant,16,16
+SRR1819205,Poaceae,Seedling,cold,WholePlant,WholePlant,16,16
+SRR1238718,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR1819617,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR1819621,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR1238719,Poaceae,Seedling,salt,WholePlant,WholePlant,16,7
+SRR1238720,Poaceae,Seedling,light,WholePlant,WholePlant,16,16
+SRR1663691,Poaceae,Seedling,heat,WholePlant,WholePlant,16,16
+SRR1663698,Poaceae,Seedling,heat,WholePlant,WholePlant,16,7
+SRR1663699,Poaceae,Seedling,heat,WholePlant,WholePlant,16,7
+SRR1663695,Poaceae,Seedling,cold,WholePlant,WholePlant,16,7
+SRR1663696,Poaceae,Seedling,cold,WholePlant,WholePlant,16,7
+SRR1663701,Poaceae,Seedling,cold,WholePlant,WholePlant,16,7
+SRR1238724,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+SRR1663702,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR1663704,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,7
+SRR1663705,Poaceae,Seedling,salt,WholePlant,WholePlant,16,16
+SRR1663706,Poaceae,Seedling,light,WholePlant,WholePlant,16,16
+SRR12172975,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR12172976,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR4048280,Poaceae,Leaf,drought,Above,Vegetative,7,7
+SRR12172977,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR12172978,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR4054956,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+SRR520998,Poaceae,Other,healthy,Other,Other,8,16
+SRR520999,Poaceae,Other,healthy,Other,Other,8,16
+SRR521003,Poaceae,Other,healthy,Other,Other,8,16
+SRR521006,Poaceae,Other,healthy,Other,Other,8,16
+SRR521000,Poaceae,Other,healthy,Other,Other,8,16
+SRR521001,Poaceae,Other,healthy,Other,Other,8,16
+SRR521002,Poaceae,Other,healthy,Other,Other,8,16
+SRR521004,Poaceae,Other,healthy,Other,Other,8,16
+SRR521005,Poaceae,Other,healthy,Other,Other,8,16
+SRR242505,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+SRR248565,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+SRR250415,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+SRR250416,Poaceae,Flower,healthy,Above,Reproductive,3,8
+SRR252662,Poaceae,Flower,healthy,Above,Reproductive,3,8
+SRR255405,Poaceae,Flower,healthy,Above,Reproductive,3,8
+SRR254169,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+SRR254176,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+SRR254170,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+SRR254172,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+SRR254175,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+SRR254171,Poaceae,Seed,healthy,WholePlant,Reproductive,15,4
+ERR3773807,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR3773808,Poaceae,Root,healthy,Below,Vegetative,13,13
+ERR3773809,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+ERR3773810,Poaceae,Seedling,healthy,WholePlant,WholePlant,16,16
+ERR3773811,Poaceae,Leaf,healthy,Above,Vegetative,7,4
+ERR3773812,Poaceae,Leaf,healthy,Above,Vegetative,7,13
+ERR3773813,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR3773814,Poaceae,Leaf,healthy,Above,Vegetative,7,18
+ERR3773815,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR3773816,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR3773817,Poaceae,Leaf,healthy,Above,Vegetative,7,7
+ERR3773819,Poaceae,Reproductive- Other,healthy,Above,Reproductive,12,19
+ERR3773818,Poaceae,Reproductive- Other,healthy,Above,Reproductive,12,19
+ERR3773820,Poaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+ERR3773821,Poaceae,Reproductive- Other,healthy,Above,Reproductive,12,13
+ERR3773822,Poaceae,Flower,healthy,Above,Reproductive,3,19
+ERR3773823,Poaceae,Flower,healthy,Above,Reproductive,3,19
+ERR3773824,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR3773825,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR3773826,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
+ERR3773827,Poaceae,Seed,healthy,WholePlant,Reproductive,15,13
